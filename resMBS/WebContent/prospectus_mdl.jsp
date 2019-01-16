@@ -41,16 +41,13 @@
 	position: relative;
 	overflow: hidden;
 }
-
 .active1 {
 	background-color: #52B9FA;
 	color: white;
 }
-
 .axis {
 	font: 10px sans-serif;
 }
-
 .axis path, .axis line {
 	fill: none;
 	stroke: #000;
@@ -124,64 +121,64 @@
 
 										<div class="" role="tabpanel" data-example-id="togglable-tabs">
 											<div class="row">
-												<div class="col-sm-2">
-													<div class="col-md-6">
-														<ul class="nav nav-tabs tabs-left">
-															<%
-																for (int i = 2; i <= 8; i += 1) {
-																	String state_live = "";
-																	if (i == 2) {
-																		state_live = "active";
-																	}
-																	String href = "#tab_content" + Integer.toString(i - 1) + Integer.toString(i - 1);
-																	String onclick = "getDataForGivenYear('200" + Integer.toString(i) + "','chart_200" + Integer.toString(i)
-																			+ "','Graph_for_specific_topic_200" + Integer.toString(i) + "','" + "')";
-																	String year = "200" + Integer.toString(i);
-															%>
+												<div class="col-md-1">
+												
+													<ul class="nav nav-tabs tabs-left">
+													 <% for(int i = 2; i <= 8; i+=1) {
+														 String state_live = "";
+														 if(i==2){ state_live ="active";}
+														 String href="#tab_content"+ Integer.toString(i-1)+ Integer.toString(i-1);
+														 String onclick="getDataForGivenYear('200"+Integer.toString(i)+"','chart_200"+Integer.toString(i)+"','Graph_for_specific_topic_200"+Integer.toString(i)+"')";
+														 String year="200"+Integer.toString(i);
+														 %>
+													 <li role="presentation" class="<%=state_live %>>"><a
+															href=<%=href %>
+															onclick=<%=onclick %>
+															 role="tab" data-toggle="tab"
+															aria-controls="home" aria-expanded="true"><%=year %></a></li>
+													 <%} %>
+													 <!-- 
+														<li role="presentation" class="active"><a
+															href="#tab_content11"
+															onclick="getDataForGivenYear('2002','chart_2002','Graph_for_specific_topic_2002')"
+															id="home-tabb" role="tab" data-toggle="tab"
+															aria-controls="home" aria-expanded="true">2002</a></li>
+														<li role="presentation" class=""><a
+															href="#tab_content22"
+															onclick="getDataForGivenYear('2003','chart_2003','Graph_for_specific_topic_2003')"
+															role="tab" id="profile-tabb" data-toggle="tab"
+															aria-controls="profile" aria-expanded="false">2003</a></li>
+														<li role="presentation" class=""><a
+															href="#tab_content33"
+															onclick="getDataForGivenYear('2004','chart_2004','Graph_for_specific_topic_2004')"
+															role="tab" id="profile-tabb3" data-toggle="tab"
+															aria-controls="profile" aria-expanded="false">2004</a></li>
+														<li role="presentation" class=""><a
+															href="#tab_content44"
+															onclick="getDataForGivenYear('2005','chart_2005','Graph_for_specific_topic_2005')"
+															role="tab" id="profile-tabb4" data-toggle="tab"
+															aria-controls="profile" aria-expanded="false">2005</a></li>
+														<li role="presentation" class=""><a
+															href="#tab_content55"
+															onclick="getDataForGivenYear('2006','chart_2006','Graph_for_specific_topic_2006')"
+															role="tab" id="profile-tabb4" data-toggle="tab"
+															aria-controls="profile" aria-expanded="false">2006</a></li>
+														<li role="presentation" class=""><a
+															href="#tab_content66"
+															onclick="getDataForGivenYear('2007','chart_2007','Graph_for_specific_topic_2007')"
+															role="tab" id="profile-tabb4" data-toggle="tab"
+															aria-controls="profile" aria-expanded="false">2007</a></li>
+														<li role="presentation" class=""><a
+															href="#tab_content77"
+															onclick="getDataForGivenYear('2008','chart_2008','Graph_for_specific_topic_2008')"
+															role="tab" id="profile-tabb4" data-toggle="tab"
+															aria-controls="profile" aria-expanded="false">2008</a></li>
+															 -->
 
-															<li role="presentation" class="<%=state_live%>>"><a
-																href=<%=href%>
-																onclick="<%=onclick%>; hiding(<%=year%>);" role="tab"
-																data-toggle="tab" aria-controls="home"
-																aria-expanded="true"><%=year%></a></li>
-
-															<%
-																}
-															%>
-
-
-														</ul>
-													</div>
-													<div class="col-md-6">
-														<ul class="nav nav-tabs tabs-left">
-															<%
-																for (int i = 2; i <= 8; i += 1) {
-																	String state_live = "";
-																	if (i == 2) {
-																		state_live = "active";
-																	}
-																	String href = "#tab_content" + Integer.toString(i - 1) + Integer.toString(i - 1);
-																	String onclick = "getDataForGivenYear('200" + Integer.toString(i) + "','chart_200" + Integer.toString(i)
-																			+ "','Graph_for_specific_topic_200" + Integer.toString(i) + "')";
-																	String year = "200" + Integer.toString(i);
-																	//if(year==){}
-															%>
-
-															<div class="checkbox">
-																<br> <label><input type="checkbox"
-																	id="checkbox<%=year%>" onclick="compare(<%=year%>);"
-																	value=""></label>
-															</div>
-
-															<%
-																}
-															%>
-
-
-														</ul>
-													</div>
+													</ul>
 												</div>
-												<div class="col-sm-10" style="margin-left:0px " >
+
+												<div class="col-md-11">
 													<div id="myTabContent2" class="tab-content">
 														<div role="tabpanel" class="tab-pane fade active in"
 															id="tab_content11" aria-labelledby="home-tab">
@@ -259,7 +256,7 @@
 															id="tab_content66" aria-labelledby="profile-tab">
 															<div class="row">
 																<div class="col-md-6">
-																	<br>
+																<br>
 																	<div id="chart_2007"></div>
 																</div>
 																<div class="col-md-6">
@@ -273,7 +270,7 @@
 															id="tab_content77" aria-labelledby="profile-tab">
 															<div class="row">
 																<div class="col-md-6">
-																	<br>
+																<br>
 																	<div id="chart_2008"></div>
 																</div>
 																<div class="col-md-6">
@@ -287,111 +284,7 @@
 													</div>
 												</div>
 											</div>
-											<div class="row">
-												<div class="col-md-2"></div>
-												<div class="col-md-10">
-													<div id="myTabContent2" class="tab-content">
-														<div role="tabpanel" class="tab-pane fade active in"
-															id="tab_content11" aria-labelledby="home-tab">
-															<div class="row">
-																<div class="col-md-6 ">
-																	<br>
-																	<div id="chart_2002yes"></div>
-																</div>
-																<div class="col-md-6">
-																	<div id=Prospectus_of_2002yes></div>
-																	<div style="display: none;" class="x_content"
-																		id='Graph_for_specific_topic2002yes'></div>
-																</div>
-															</div>
-														</div>
-														<div role="tabpanel" class="tab-pane fade active in"
-															id="tab_content11" aria-labelledby="home-tab">
-															<div class="row">
-																<div class="col-md-6 ">
-																	<br>
-																	<div id="chart_2003yes"></div>
-																</div>
-																<div class="col-md-6">
-																	<div id=Prospectus_of_2003yes></div>
-																	<div style="display: none;" class="x_content"
-																		id='Graph_for_specific_topic2003yes'></div>
-																</div>
-															</div>
-														</div>
-														<div role="tabpanel" class="tab-pane fade active in"
-															id="tab_content11" aria-labelledby="home-tab">
-															<div class="row">
-																<div class="col-md-6 ">
-																	<br>
-																	<div id="chart_2004yes"></div>
-																</div>
-																<div class="col-md-6">
-																	<div id=Prospectus_of_2004yes></div>
-																	<div style="display: none;" class="x_content"
-																		id='Graph_for_specific_topic2004yes'></div>
-																</div>
-															</div>
-														</div>
-														<div role="tabpanel" class="tab-pane fade active in"
-															id="tab_content11" aria-labelledby="home-tab">
-															<div class="row">
-																<div class="col-md-6 ">
-																	<br>
-																	<div id="chart_2005yes"></div>
-																</div>
-																<div class="col-md-6">
-																	<div id=Prospectus_of_2005yes></div>
-																	<div style="display: none;" class="x_content"
-																		id='Graph_for_specific_topic2005yes'></div>
-																</div>
-															</div>
-														</div>
-														<div role="tabpanel" class="tab-pane fade active in"
-															id="tab_content11" aria-labelledby="home-tab">
-															<div class="row">
-																<div class="col-md-6 ">
-																	<br>
-																	<div id="chart_2006yes"></div>
-																</div>
-																<div class="col-md-6">
-																	<div id=Prospectus_of_2006yes></div>
-																	<div style="display: none;" class="x_content"
-																		id='Graph_for_specific_topic2006yes'></div>
-																</div>
-															</div>
-														</div>
-														<div role="tabpanel" class="tab-pane fade active in"
-															id="tab_content11" aria-labelledby="home-tab">
-															<div class="row">
-																<div class="col-md-6 ">
-																	<br>
-																	<div id="chart_2007yes"></div>
-																</div>
-																<div class="col-md-6">
-																	<div id=Prospectus_of_2007yes></div>
-																	<div style="display: none;" class="x_content"
-																		id='Graph_for_specific_topic2007yes'></div>
-																</div>
-															</div>
-														</div>
-														<div role="tabpanel" class="tab-pane fade active in"
-															id="tab_content11" aria-labelledby="home-tab">
-															<div class="row">
-																<div class="col-md-6 ">
-																	<br>
-																	<div id="chart_2008yes"></div>
-																</div>
-																<div class="col-md-6">
-																	<div id=Prospectus_of_2008yes></div>
-																	<div style="display: none;" class="x_content"
-																		id='Graph_for_specific_topic2008yes'></div>
-																</div>
-															</div>
-														</div>
-													</div>
-												</div>
-											</div>
+
 										</div>
 									</div>
 
