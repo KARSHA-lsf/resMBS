@@ -171,7 +171,7 @@
 									
 									<li><a href="issuers.jsp" id="sid_14">Issuers</a></li>
 									<li><a href="prospectus_mdl.jsp" id="sid_14">Prospectus</a></li>
-									<li><a href="Sankey.jsp" id="sid_14">Sankey</a></li>
+									<li><a href="Sankey.jsp" id="sid_14">FI to topic</a></li>
 								</ul>
 							</li>
 						

@@ -100,7 +100,7 @@ div.tooltip {
 					<div class="x_panel">
 						<div class="x_title">
 							<h2>
-								Sankey <span id="cmp_header"></span>
+								FI to topic <span id="cmp_header"></span>
 							</h2>
 							<ul class="nav navbar-right panel_toolbox">
 								<li><a class="collapse-link"><i

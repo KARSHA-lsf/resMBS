@@ -41,13 +41,16 @@
 	position: relative;
 	overflow: hidden;
 }
+
 .active1 {
 	background-color: #52B9FA;
 	color: white;
 }
+
 .axis {
 	font: 10px sans-serif;
 }
+
 .axis path, .axis line {
 	fill: none;
 	stroke: #000;
@@ -122,22 +125,7 @@
 										<div class="" role="tabpanel" data-example-id="togglable-tabs">
 											<div class="row">
 												<div class="col-md-1">
-												
 													<ul class="nav nav-tabs tabs-left">
-													 <% for(int i = 2; i <= 8; i+=1) {
-														 String state_live = "";
-														 if(i==2){ state_live ="active";}
-														 String href="#tab_content"+ Integer.toString(i-1)+ Integer.toString(i-1);
-														 String onclick="getDataForGivenYear('200"+Integer.toString(i)+"','chart_200"+Integer.toString(i)+"','Graph_for_specific_topic_200"+Integer.toString(i)+"')";
-														 String year="200"+Integer.toString(i);
-														 %>
-													 <li role="presentation" class="<%=state_live %>>"><a
-															href=<%=href %>
-															onclick=<%=onclick %>
-															 role="tab" data-toggle="tab"
-															aria-controls="home" aria-expanded="true"><%=year %></a></li>
-													 <%} %>
-													 <!-- 
 														<li role="presentation" class="active"><a
 															href="#tab_content11"
 															onclick="getDataForGivenYear('2002','chart_2002','Graph_for_specific_topic_2002')"
@@ -153,6 +141,7 @@
 															onclick="getDataForGivenYear('2004','chart_2004','Graph_for_specific_topic_2004')"
 															role="tab" id="profile-tabb3" data-toggle="tab"
 															aria-controls="profile" aria-expanded="false">2004</a></li>
+
 														<li role="presentation" class=""><a
 															href="#tab_content44"
 															onclick="getDataForGivenYear('2005','chart_2005','Graph_for_specific_topic_2005')"
@@ -173,7 +162,6 @@
 															onclick="getDataForGivenYear('2008','chart_2008','Graph_for_specific_topic_2008')"
 															role="tab" id="profile-tabb4" data-toggle="tab"
 															aria-controls="profile" aria-expanded="false">2008</a></li>
-															 -->
 
 													</ul>
 												</div>
