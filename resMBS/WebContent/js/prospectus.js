@@ -1,3 +1,33 @@
+hiding('2002');
+function hiding(year){
+	document.getElementById('checkbox2002').style.display = 'block';
+	document.getElementById('checkbox2003').style.display = 'block';
+	document.getElementById('checkbox2004').style.display = 'block';
+	document.getElementById('checkbox2005').style.display = 'block';
+	document.getElementById('checkbox2006').style.display = 'block';
+	document.getElementById('checkbox2007').style.display = 'block';
+	document.getElementById('checkbox2008').style.display = 'block';
+	var link = document.getElementById("checkbox"+year);
+	link.style.display = 'none';
+}
+function compare(year){
+	var x = document.getElementById('checkbox'+year);
+	var graph1 = document.getElementById('chart_'+year+'yes');
+	var graph2 = document.getElementById('Graph_for_specific_topic'+year+'yes');
+	var text = document.getElementById('Prospectus_of_'+year+'yes');
+	//Prospectus_of_2005yes
+if(x.checked){
+	getDataForGivenYear(year, 'chart_'+year, 'Graph_for_specific_topic'+year,'yes');
+	graph1.style.display = "block";
+	graph2.style.display = "block";
+	text.style.display = "block";
+  }else{
+	  graph1.style.display ="none";
+	  graph2.style.display ="none";
+	  text.style.display = "none";
+  }
+}
+
 function sortNumber(a,b) {
     return a - b;
 }
