@@ -7,7 +7,7 @@
   
   <property name="hibernate.connection.url">jdbc:mysql://localhost:3306/fin_network</property>
   <property name="hibernate.connection.username">root</property>
-  <property name="hibernate.connection.password">tharindu</property>
+  <property name="hibernate.connection.password">password</property>
    
  <!--  <property name="hibernate.connection.url">jdbc:mysql://clipdb-karsha.umiacs.umd.edu:3306/fin_network</property>
   <property name="hibernate.connection.username">karsha</property>

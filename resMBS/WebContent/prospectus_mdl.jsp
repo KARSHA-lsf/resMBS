@@ -41,13 +41,16 @@
 	position: relative;
 	overflow: hidden;
 }
+
 .active1 {
 	background-color: #52B9FA;
 	color: white;
 }
+
 .axis {
 	font: 10px sans-serif;
 }
+
 .axis path, .axis line {
 	fill: none;
 	stroke: #000;
