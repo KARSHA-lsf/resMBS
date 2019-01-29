@@ -181,16 +181,17 @@
 														</ul>
 													</div>
 												</div>
-												<div class="col-sm-10" style="margin-left:0px " >
+												<div class="col-sm-10" style="margin-left: 0px">
 													<div id="myTabContent2" class="tab-content">
 														<div role="tabpanel" class="tab-pane fade active in"
 															id="tab_content11" aria-labelledby="home-tab">
 															<div class="row">
 																<div class="col-md-6 ">
-																	<br>
+																	<div id=chart_text_2002></div>
 																	<div id="chart_2002"></div>
 																</div>
-																<div class="col-md-6">
+																<div class="col-md-6 " style="padding-right: 10px;">
+																	<br> <br>
 																	<div id=Prospectus_of_2002></div>
 																	<div style="display: none;" class="x_content"
 																		id="Graph_for_specific_topic_2002"></div>
@@ -201,11 +202,12 @@
 															id="tab_content22" aria-labelledby="profile-tab">
 															<div class="row">
 																<div class="col-md-6 ">
-																	<br>
+																	<div id=chart_text_2003></div>
 																	<div id="chart_2003"></div>
 
 																</div>
 																<div class="col-md-6 ">
+																	<br> <br>
 																	<div id=Prospectus_of_2003></div>
 
 																	<div style="display: none;" class="x_content"
@@ -217,10 +219,11 @@
 															id="tab_content33" aria-labelledby="profile-tab">
 															<div class="row">
 																<div class="col-md-6">
-																	<br>
+																	<div id=chart_text_2004></div>
 																	<div id="chart_2004"></div>
 																</div>
 																<div class="col-md-6">
+																	<br> <br>
 																	<div id=Prospectus_of_2004></div>
 																	<div style="display: none;" class="x_content"
 																		id="Graph_for_specific_topic_2004"></div>
@@ -231,10 +234,11 @@
 															id="tab_content44" aria-labelledby="profile-tab">
 															<div class="row">
 																<div class="col-md-6">
-																	<br>
+																	<div id=chart_text_2005></div>
 																	<div id="chart_2005"></div>
 																</div>
 																<div class="col-md-6">
+																	<br> <br>
 																	<div id=Prospectus_of_2005></div>
 																	<div style="display: none;" class="x_content"
 																		id="Graph_for_specific_topic_2005"></div>
@@ -245,10 +249,11 @@
 															id="tab_content55" aria-labelledby="profile-tab">
 															<div class="row">
 																<div class="col-md-6">
-																	<br>
+																	<div id=chart_text_2006></div>
 																	<div id="chart_2006"></div>
 																</div>
 																<div class="col-md-6">
+																	<br> <br>
 																	<div id=Prospectus_of_2006></div>
 																	<div style="display: none;" class="x_content"
 																		id="Graph_for_specific_topic_2006"></div>
@@ -259,10 +264,11 @@
 															id="tab_content66" aria-labelledby="profile-tab">
 															<div class="row">
 																<div class="col-md-6">
-																	<br>
+																	<div id=chart_text_2007></div>
 																	<div id="chart_2007"></div>
 																</div>
 																<div class="col-md-6">
+																	<br> <br>
 																	<div id=Prospectus_of_2007></div>
 																	<div style="display: none;" class="x_content"
 																		id="Graph_for_specific_topic_2007"></div>
@@ -273,10 +279,11 @@
 															id="tab_content77" aria-labelledby="profile-tab">
 															<div class="row">
 																<div class="col-md-6">
-																	<br>
+																	<div id=chart_text_2008></div>
 																	<div id="chart_2008"></div>
 																</div>
 																<div class="col-md-6">
+																	<br> <br>
 																	<div id=Prospectus_of_2008></div>
 																	<div style="display: none;" class="x_content"
 																		id="Graph_for_specific_topic_2008"></div>
@@ -295,10 +302,11 @@
 															id="tab_content11" aria-labelledby="home-tab">
 															<div class="row">
 																<div class="col-md-6 ">
-																	<br>
+																	<div id=chart_text_2002yes></div>
 																	<div id="chart_2002yes"></div>
 																</div>
 																<div class="col-md-6">
+																	<br> <br>
 																	<div id=Prospectus_of_2002yes></div>
 																	<div style="display: none;" class="x_content"
 																		id='Graph_for_specific_topic2002yes'></div>
@@ -309,10 +317,11 @@
 															id="tab_content11" aria-labelledby="home-tab">
 															<div class="row">
 																<div class="col-md-6 ">
-																	<br>
+																	<div id=chart_text_2003yes></div>
 																	<div id="chart_2003yes"></div>
 																</div>
 																<div class="col-md-6">
+																	<br> <br>
 																	<div id=Prospectus_of_2003yes></div>
 																	<div style="display: none;" class="x_content"
 																		id='Graph_for_specific_topic2003yes'></div>
@@ -323,10 +332,11 @@
 															id="tab_content11" aria-labelledby="home-tab">
 															<div class="row">
 																<div class="col-md-6 ">
-																	<br>
+																	<div id=chart_text_2004yes></div>
 																	<div id="chart_2004yes"></div>
 																</div>
 																<div class="col-md-6">
+																	<br> <br>
 																	<div id=Prospectus_of_2004yes></div>
 																	<div style="display: none;" class="x_content"
 																		id='Graph_for_specific_topic2004yes'></div>
@@ -337,10 +347,11 @@
 															id="tab_content11" aria-labelledby="home-tab">
 															<div class="row">
 																<div class="col-md-6 ">
-																	<br>
+																	<div id=chart_text_2005yes></div>
 																	<div id="chart_2005yes"></div>
 																</div>
 																<div class="col-md-6">
+																	<br> <br>
 																	<div id=Prospectus_of_2005yes></div>
 																	<div style="display: none;" class="x_content"
 																		id='Graph_for_specific_topic2005yes'></div>
@@ -351,10 +362,11 @@
 															id="tab_content11" aria-labelledby="home-tab">
 															<div class="row">
 																<div class="col-md-6 ">
-																	<br>
+																	<div id=chart_text_2006yes></div>
 																	<div id="chart_2006yes"></div>
 																</div>
 																<div class="col-md-6">
+																	<br> <br>
 																	<div id=Prospectus_of_2006yes></div>
 																	<div style="display: none;" class="x_content"
 																		id='Graph_for_specific_topic2006yes'></div>
@@ -365,10 +377,11 @@
 															id="tab_content11" aria-labelledby="home-tab">
 															<div class="row">
 																<div class="col-md-6 ">
-																	<br>
+																	<div id=chart_text_2007yes></div>
 																	<div id="chart_2007yes"></div>
 																</div>
 																<div class="col-md-6">
+																	<br> <br>
 																	<div id=Prospectus_of_2007yes></div>
 																	<div style="display: none;" class="x_content"
 																		id='Graph_for_specific_topic2007yes'></div>
@@ -379,10 +392,11 @@
 															id="tab_content11" aria-labelledby="home-tab">
 															<div class="row">
 																<div class="col-md-6 ">
-																	<br>
+																	<div id=chart_text_2008yes></div>
 																	<div id="chart_2008yes"></div>
 																</div>
 																<div class="col-md-6">
+																	<br> <br>
 																	<div id=Prospectus_of_2008yes></div>
 																	<div style="display: none;" class="x_content"
 																		id='Graph_for_specific_topic2008yes'></div>

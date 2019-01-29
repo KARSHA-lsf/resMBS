@@ -174,7 +174,21 @@
 									<li><a href="Sankey.jsp" id="sid_14">FI to topic</a></li>
 								</ul>
 							</li>
-						
+						<li><a href="fi_Communities.jsp"> <i
+								class="fa fa-users" aria-hidden="true"></i> FI Communities
+						</a></li>
+						<li><a href="Role-FI_Communities.jsp"> <i
+								class="fa fa-users" aria-hidden="true"></i> Role-FI Communities
+						</a></li>
+						<li><a href="Role-FI_Communities_roles_omitted.jsp"> <i
+								class="fa fa-users" aria-hidden="true"></i> Role-FI Communities (roles omitted)
+						</a></li>
+						<li><a href="toxic_resMBS_unweighted_topics.jsp"> <i
+								class="fa fa-users" aria-hidden="true"></i> Toxic resMBS: Unweighted Topics
+						</a></li>
+						<li><a href="Toxic_resMBS_Topics_weighted.jsp"> <i
+								class="fa fa-users" aria-hidden="true"></i> Toxic resMBS: Topics Weighted for Important Roles and Toxic Financial Entities
+						</a></li>
 						<li><a href="http://opensource.lk/"> <i
 								class="fa fa-users" aria-hidden="true"></i> People
 						</a></li>
