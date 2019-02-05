@@ -100,8 +100,7 @@ div.tooltip {
 					<div class="x_panel">
 						<div class="x_title">
 							<h2>
-								Dataset: >=5 (Role, FE) pairs and has Issuer OR Originator (14 topics, threshold=0.1) 
-Unweighted Topics <span id="cmp_header"></span>
+								FI Communities <span id="cmp_header"></span>
 							</h2>
 							<ul class="nav navbar-right panel_toolbox">
 								<li><a class="collapse-link"><i
@@ -111,7 +110,7 @@ Unweighted Topics <span id="cmp_header"></span>
 						</div>
 						<div class="x_content">
 							
-							<div id="sankey_svg"  style="height: 900px;" >
+							<div id="sankey_svg"  style="height: 2900px; width: 400px;" >
 							
 							</div>
 							
@@ -169,7 +168,7 @@ Unweighted Topics <span id="cmp_header"></span>
 
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script src="https://unpkg.com/d3-sankey@0.7"></script>
-<script src="js/Toxi_resMBS.js"></script>
+<script src="js/v3fi_Communities.js"></script>
 <script>
 call();
 </script>

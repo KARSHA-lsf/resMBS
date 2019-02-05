@@ -100,7 +100,9 @@ div.tooltip {
 					<div class="x_panel">
 						<div class="x_title">
 							<h2>
-								Toxic resMBS: Topics Weighted for Important Roles and Toxic Financial Entities <span id="cmp_header"></span>
+								Dataset: >=5 (Role, FE) pairs and has Issuer OR Originator (16 topics, threshold=0.1) 
+								Topics Weighted for Important Roles</h2><h2> and
+								 Toxic Financial Entities (Weights: Toxic FE=5, Issuer=5, Originator=5) <span id="cmp_header"></span>
 							</h2>
 							<ul class="nav navbar-right panel_toolbox">
 								<li><a class="collapse-link"><i

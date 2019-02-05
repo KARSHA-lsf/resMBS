@@ -7,11 +7,11 @@
   
   <property name="hibernate.connection.url">jdbc:mysql://localhost:3306/fin_network</property>
   <property name="hibernate.connection.username">root</property>
-  <property name="hibernate.connection.password">password</property>
+  <property name="hibernate.connection.password">tharindu</property>  
    
- <!--  <property name="hibernate.connection.url">jdbc:mysql://clipdb-karsha.umiacs.umd.edu:3306/fin_network</property>
+  <!-- <property name="hibernate.connection.url">jdbc:mysql://clipdb-karsha.umiacs.umd.edu:3306/fin_network</property>
   <property name="hibernate.connection.username">karsha</property>
-  <property name="hibernate.connection.password">em$.N0w</property>  -->
+  <property name="hibernate.connection.password">em$.N0w</property>   -->
  
   <property name="hibernate.dialect">org.hibernate.dialect.MySQLDialect</property>
   <property name="hibernate.search.autoregister_listeners">false</property>
@@ -47,6 +47,7 @@
   <mapping class="com.finnetwork.models.prospectus" resource="com/finnetwork/models/prospectus.hbm.xml"/>
   <mapping class="com.finnetwork.models.topic_mdl_issuers" resource="com/finnetwork/models/topic_mdl_issuers.hbm.xml"/>
   <mapping class="com.finnetwork.models.Topic_mdl__sankey" resource="com/finnetwork/models/Topic_mdl__sankey.hbm.xml"/>
+  <mapping class="com.finnetwork.models.prospectusv3" resource="com/finnetwork/models/prospectusv3.hbm.xml"/>
   
  </session-factory>
 </hibernate-configuration>

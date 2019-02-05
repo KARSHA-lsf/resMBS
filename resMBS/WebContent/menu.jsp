@@ -165,7 +165,7 @@
 		                    <ul id="sector51_menu" class="nav child_menu">
 		                    </ul>
 		                  </li> --%>
-						<li><a><i class="fa fa-sitemap"></i>Topic model <span class="fa fa-chevron-down"></span></a>
+						<li><a><i class="fa fa-sitemap"></i>Topic model v1 <span class="fa fa-chevron-down"></span></a>
 								<ul class="nav child_menu">
 									<li><a href="topic_mdl.jsp" id="sid_14">Topics</a></li>
 									
@@ -174,21 +174,29 @@
 									<li><a href="Sankey.jsp" id="sid_14">FI to topic</a></li>
 								</ul>
 							</li>
-						<li><a href="fi_Communities.jsp"> <i
-								class="fa fa-users" aria-hidden="true"></i> FI Communities
-						</a></li>
-						<li><a href="Role-FI_Communities.jsp"> <i
-								class="fa fa-users" aria-hidden="true"></i> Role-FI Communities
-						</a></li>
-						<li><a href="Role-FI_Communities_roles_omitted.jsp"> <i
-								class="fa fa-users" aria-hidden="true"></i> Role-FI Communities (roles omitted)
-						</a></li>
-						<li><a href="toxic_resMBS_unweighted_topics.jsp"> <i
-								class="fa fa-users" aria-hidden="true"></i> Toxic resMBS: Unweighted Topics
-						</a></li>
-						<li><a href="Toxic_resMBS_Topics_weighted.jsp"> <i
-								class="fa fa-users" aria-hidden="true"></i> Toxic resMBS: Topics Weighted for Important Roles and Toxic Financial Entities
-						</a></li>
+						<li><a><i class="fa fa-sitemap"></i>Topic model v2 <span class="fa fa-chevron-down"></span></a>
+								<ul class="nav child_menu">
+									<li><a href="fi_Communities.jsp" id="sid_14">FI Communities</a></li>
+									<li><a href="Role-FI_Communities.jsp" id="sid_14">Role-FI Communities</a></li>
+									<li><a href="Role-FI_Communities_roles_omitted.jsp" id="sid_14">Role-FI Communities (roles omitted)</a></li>
+									<li><a href="toxic_resMBS_unweighted_topics.jsp" id="sid_14">Toxic resMBS: Unweighted Topics</a></li>
+									<li><a href="Toxic_resMBS_Topics_weighted.jsp" id="sid_14">Toxic resMBS: Topics Weighted for Important Roles and Toxic Financial Entities</a></li>
+									
+								</ul>
+							</li>
+							<li><a><i class="fa fa-sitemap"></i>Topic model v3 <span class="fa fa-chevron-down"></span></a>
+								<ul class="nav child_menu">
+									<li><a href="v3_topics.jsp" id="sid_15">Topics</a></li>
+									<li><a href="v3fi_Communities.jsp" id="sid_16">Topics Sankey</a></li> 
+									<li><a href="v3issuers.jsp" id="sid_17">Issuers</a></li> 
+									<li><a href="v3_prospectus_mdl.jsp" id="sid_18">Prospectus</a></li>
+									<li><a href="v3Sankey.jsp" id="sid_19">FI to topic</a></li>
+									
+									
+								</ul>
+							</li>
+						
+					
 						<li><a href="http://opensource.lk/"> <i
 								class="fa fa-users" aria-hidden="true"></i> People
 						</a></li>

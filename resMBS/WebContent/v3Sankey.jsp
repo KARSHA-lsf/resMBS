@@ -100,8 +100,7 @@ div.tooltip {
 					<div class="x_panel">
 						<div class="x_title">
 							<h2>
-								Dataset: >=5 (Role, FE) pairs and has Issuer OR Originator (14 topics, threshold=0.1) 
-Unweighted Topics <span id="cmp_header"></span>
+								FI to topic <span id="cmp_header"></span>
 							</h2>
 							<ul class="nav navbar-right panel_toolbox">
 								<li><a class="collapse-link"><i
@@ -110,7 +109,16 @@ Unweighted Topics <span id="cmp_header"></span>
 							<div class="clearfix"></div>
 						</div>
 						<div class="x_content">
-							
+							<div class="btn-group btn-group-justified">
+								<a href="#" id='2002' onClick="call(2002)" class="btn btn-default active">2002</a>
+								<a href="#" id='2003' onClick="call(2003)" class="btn btn-default">2003</a>
+								<a href="#" id='2004' onClick="call(2004)" class="btn btn-default">2004</a>
+								<a href="#" id='2005' onClick="call(2005)" class="btn btn-default">2005</a>
+								<a href="#" id='2006' onClick="call(2006)" class="btn btn-default">2006</a>
+								<a href="#" id='2007' onClick="call(2007)" class="btn btn-default">2007</a>
+								<a href="#" id='2008' onClick="call(2008)" class="btn btn-default">2008</a>
+							</div>
+							<br> <br>
 							<div id="sankey_svg"  style="height: 900px;" >
 							
 							</div>
@@ -169,8 +177,8 @@ Unweighted Topics <span id="cmp_header"></span>
 
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script src="https://unpkg.com/d3-sankey@0.7"></script>
-<script src="js/Toxi_resMBS.js"></script>
+<script src="js/sankey.js"></script>
 <script>
-call();
+call('2002');
 </script>
 </html>

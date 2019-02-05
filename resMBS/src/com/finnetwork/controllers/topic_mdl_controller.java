@@ -97,4 +97,26 @@ public class topic_mdl_controller {
 		return companyNode;
 	}
 	
+public ObjectNode getIssuersDataForgivenData_v3(String Fi) {
+		
+		Session session = hibernate_util.getSession();
+		session.beginTransaction();
+		Query querysource = session
+				.createQuery("SELECT x.Fc,y.Total as n ,y.A as n_a ,y.B as n_b,y.M as n_m FROM topic_mdl_issuers AS x , prospectusv3 AS y WHERE x.Fi= :zz AND y.PID=x.Fc");
+		//SELECT COUNT(Fc),Fi,year FROM topic_mdl_issuers WHERE Fi= :zz GROUP BY year 
+		////SELECT x.FC,y.n FROM `topic_mdl_issuers` AS x ,`topic_mdl_prospectus` AS y WHERE x.FI='FI_34'AND y.PID=x.FC
+		querysource.setParameter("zz", Fi);
+		List sourceList = querysource.list();
+
+		ObjectMapper mapper = new ObjectMapper();
+		ArrayNode array = mapper.valueToTree(sourceList);
+		ObjectNode companyNode = mapper.createObjectNode();
+		companyNode.putArray("company").addAll(array);
+
+		session.getTransaction().commit();
+		session.close();
+		
+		return companyNode;
+	}
+	
 }

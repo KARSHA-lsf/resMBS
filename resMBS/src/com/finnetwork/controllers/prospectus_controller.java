@@ -25,4 +25,18 @@ public List <prospectus>  get_prospectus() {
 		 return results;
 	}
 
+public List <prospectus>  get_prospectusv3() {
+	
+	
+	Session session = hibernate_util.getSession();
+	 Transaction tx=session.beginTransaction();
+
+	String hql = "SELECT PID,year,Prospectus,nominal_value_million,associated_topic FROM prospectusv3";
+	Query query = session.createQuery(hql);
+	List results = query.list();
+	System.out.println(results.get(0));
+	 tx.commit();
+	 return results;
+}
+
 }
