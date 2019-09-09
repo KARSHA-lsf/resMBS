@@ -112,7 +112,7 @@ div.tooltip {
 						</div>
 						<div class="x_content">
 							
-							<div id="sankey_svg"  style="height: 900px;" >
+							<div id="sankey_svg"  style="height: 900px; width: 500px;" >
 							
 							</div>
 							

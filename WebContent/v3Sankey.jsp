@@ -119,7 +119,7 @@ div.tooltip {
 								<a href="#" id='2008' onClick="call(2008)" class="btn btn-default">2008</a>
 							</div>
 							<br> <br>
-							<div id="sankey_svg"  style="height: 900px;" >
+							<div id="sankey_svg"  style="height: 900px; width: 500px;" >
 							
 							</div>
 							

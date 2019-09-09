@@ -23,4 +23,18 @@
     <servlet-name>fin_rest_serlvet</servlet-name>
     <url-pattern>/rest/*</url-pattern>
   </servlet-mapping>
+  
+  <jsp-config>
+    <!-- Set to true to disable JSP scriptiing syntax -->
+    <jsp-property-group>
+        <url-pattern>*.jsp</url-pattern>
+        <scripting-invalid>false</scripting-invalid>
+    </jsp-property-group>
+    <!-- Set to true to disable Expression Language (EL) syntax -->
+    <jsp-property-group>
+        <url-pattern>*.jsp</url-pattern>
+        <el-ignored>false</el-ignored>
+    </jsp-property-group>
+</jsp-config>
+  
 </web-app>
