@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated Oct 30, 2018 1:40:52 AM by Hibernate Tools 3.5.0.Final -->
+<hibernate-mapping>
+    <class name="com.finnetwork.models.OC_Node" table="OC_NODE">
+        <id name="id" type="int">
+            <column name="ID" />
+            <generator class="assigned" />
+        </id>
+        <property name="OC_ID" type="java.lang.String">
+            <column name="OC_ID" />
+        </property>
+        <property name="OC_ENTITY_TYPE" type="java.lang.String">
+            <column name="OC_ENTITY_TYPE" />
+        </property>
+        <property name="OC_COMPANY_TYPE" type="java.lang.String">
+            <column name="OC_COMPANY_TYPE" />
+        </property>
+        <property name="OC_COMPANY_NUMBER" type="java.lang.String">
+            <column name="OC_COMPANY_NUMBER" />
+        </property>
+        <property name="OC_CURRENT_STATUS" type="java.lang.String">
+            <column name="OC_CURRENT_STATUS" />
+        </property>
+        <property name="OC_OPENCORPORATES_URL" type="java.lang.String">
+            <column name="OC_OPENCORPORATES_URL" />
+        </property>
+        <property name="ENTITY_NAME" type="java.lang.String">
+            <column name="ENTITY_NAME" />
+        </property>
+        <property name="CIK" type="java.lang.String">
+            <column name="CIK" />
+        </property>
+        <property name="JURISDICTION_CODE" type="java.lang.String">
+            <column name="JURISDICTION_CODE" />
+        </property>
+        <property name="STREET_ADDRESS" type="java.lang.String">
+            <column name="STREET_ADDRESS" />
+        </property>
+        <property name="LOCALITY" type="java.lang.String">
+            <column name="LOCALITY" />
+        </property>
+        <property name="REGION" type="java.lang.String">
+            <column name="REGION" />
+        </property>
+        <property name="POSTAL_CODE" type="java.lang.String">
+            <column name="POSTAL_CODE" />
+        </property>
+        <property name="COUNTRY" type="java.lang.String">
+            <column name="COUNTRY" />
+        </property>
+    </class>
+</hibernate-mapping>

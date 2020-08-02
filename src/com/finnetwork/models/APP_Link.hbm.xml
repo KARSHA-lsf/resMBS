@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated Oct 30, 2018 1:40:52 AM by Hibernate Tools 3.5.0.Final -->
+<hibernate-mapping>
+    <class name="com.finnetwork.models.APP_Link" table="APP_LINK">
+        <id name="id" type="int">
+            <column name="ID" />
+            <generator class="assigned" />
+        </id>
+        <property name="CIK_1" type="java.lang.String">
+            <column name="CIK_1" />
+        </property>
+        <property name="CIK_2" type="java.lang.String">
+            <column name="CIK_2" />
+        </property>
+        <property name="hasTnic" type="int">
+            <column name="HASTNIC" />
+        </property>
+    </class>
+</hibernate-mapping>

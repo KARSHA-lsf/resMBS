@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated Jan 10, 2019 9:53:09 AM by Hibernate Tools 3.5.0.Final -->
+<hibernate-mapping>
+    <class name="com.finnetwork.models.Topic_mdl__sankey" table="TOPIC_MDL__SANKEY">
+        <id name="FI_Name" type="java.lang.String">
+            <column name="FI_NAME" />
+            <generator class="assigned" />
+        </id>
+        <property name="FI" type="java.lang.String">
+            <column name="FI" />
+        </property>
+        <property name="Year" type="int">
+            <column name="YEAR" />
+        </property>
+        <property name="nominal_value_million" type="float">
+            <column name="NOMINAL_VALUE_MILLION" />
+        </property>
+        <property name="associated_topic" type="java.lang.String">
+            <column name="ASSOCIATED_TOPIC" />
+        </property>
+    </class>
+</hibernate-mapping>

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated Nov 9, 2018 1:16:38 PM by Hibernate Tools 3.5.0.Final -->
+<hibernate-mapping>
+    <class name="com.finnetwork.models.prospectus" table="PROSPECTUS">
+        <id name="PID" type="java.lang.String">
+            <column name="PID" />
+            <generator class="assigned" />
+        </id>
+        <property name="n" type="java.lang.String">
+            <column name="N" />
+        </property>
+        <property name="n_a" type="java.lang.String">
+            <column name="N_A" />
+        </property>
+        <property name="n_b" type="java.lang.String">
+            <column name="N_B" />
+        </property>
+        <property name="n_m" type="java.lang.String">
+            <column name="N_M" />
+        </property>
+        <property name="year" type="java.lang.String">
+            <column name="YEAR" />
+        </property>
+        <property name="Prospectus" type="java.lang.String">
+            <column name="PROSPECTUS" />
+        </property>
+        <property name="biggest_weight" type="java.lang.String">
+            <column name="BIGGEST_WEIGHT" />
+        </property>
+        <property name="associated_topic" type="java.lang.String">
+            <column name="ASSOCIATED_TOPIC" />
+        </property>
+    </class>
+</hibernate-mapping>

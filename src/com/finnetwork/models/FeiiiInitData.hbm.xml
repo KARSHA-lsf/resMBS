@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated Oct 30, 2018 1:40:52 AM by Hibernate Tools 3.5.0.Final -->
+<hibernate-mapping>
+    <class name="com.finnetwork.models.FeiiiInitData" table="FEIIIINITDATA">
+        <id name="roleId" type="java.lang.Integer">
+            <column name="ROLEID" />
+            <generator class="assigned" />
+        </id>
+        <property name="relationId" type="java.lang.Integer">
+            <column name="RELATIONID" />
+        </property>
+        <property name="fillingData" type="java.lang.Integer">
+            <column name="FILLINGDATA" />
+        </property>
+        <property name="fillerName" type="java.lang.String">
+            <column name="FILLERNAME" />
+        </property>
+        <property name="mentionedEntity" type="java.lang.String">
+            <column name="MENTIONEDENTITY" />
+        </property>
+        <property name="role" type="java.lang.String">
+            <column name="ROLE" />
+        </property>
+    </class>
+</hibernate-mapping>

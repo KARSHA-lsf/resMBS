@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated Oct 30, 2018 1:40:52 AM by Hibernate Tools 3.5.0.Final -->
+<hibernate-mapping>
+    <class name="com.finnetwork.models.CompanyData" table="COMPANYDATA">
+        <id name="companyName" type="java.lang.String">
+            <column name="COMPANYNAME" />
+            <generator class="assigned" />
+        </id>
+        <list name="connectionDetails" inverse="false" table="CONNECTIONSFORYEAR" lazy="true">
+            <key>
+                <column name="COMPANYNAME" />
+            </key>
+            <list-index></list-index>
+            <one-to-many class="com.finnetwork.models.ConnectionsForYear" />
+        </list>
+    </class>
+</hibernate-mapping>

@@ -1,0 +1,4054 @@
+{
+	"nodes": [
+		{
+			"name": "RENAISSANCE MORTGAGE ACCEPTANCE"
+		},
+		{
+			"name": "w23"
+		},
+		{
+			"name": "CREDIT-BASED ASSET SERVICING AND SECURITIZATION"
+		},
+		{
+			"name": "w19"
+		},
+		{
+			"name": "WILMINGTON TRUST"
+		},
+		{
+			"name": "w19"
+		},
+		{
+			"name": "BEAR STEARNS & CO. INC."
+		},
+		{
+			"name": "w7"
+		},
+		{
+			"name": "STRUCTURED ASSET"
+		},
+		{
+			"name": "w20"
+		},
+		{
+			"name": "FIRST FRANKLIN FINANCIAL CORP."
+		},
+		{
+			"name": "w16"
+		},
+		{
+			"name": "MORGAN STANLEY"
+		},
+		{
+			"name": "w9"
+		},
+		{
+			"name": "SACO I, INC."
+		},
+		{
+			"name": "w24"
+		},
+		{
+			"name": "MORGAN STANLEY"
+		},
+		{
+			"name": "w9"
+		},
+		{
+			"name": "STRUCTURED ASSET"
+		},
+		{
+			"name": "w20"
+		},
+		{
+			"name": "LEHMAN BROTHERS"
+		},
+		{
+			"name": "w3"
+		},
+		{
+			"name": "BEAR STEARNS & CO. INC."
+		},
+		{
+			"name": "w24"
+		},
+		{
+			"name": "WELLS FARGO"
+		},
+		{
+			"name": "w17"
+		},
+		{
+			"name": "BEAR STEARNS & CO. INC."
+		},
+		{
+			"name": "w7"
+		},
+		{
+			"name": "FBR GROUP, INC."
+		},
+		{
+			"name": "w29"
+		},
+		{
+			"name": "BEAR STEARNS & CO. INC."
+		},
+		{
+			"name": "w24"
+		},
+		{
+			"name": "WELLS FARGO"
+		},
+		{
+			"name": "w17"
+		},
+		{
+			"name": "BANC OF AMERICA SECURITIES LLC"
+		},
+		{
+			"name": "w28"
+		},
+		{
+			"name": "CREDIT-BASED ASSET SERVICING AND SECURITIZATION"
+		},
+		{
+			"name": "w2"
+		},
+		{
+			"name": "GOLDMAN SACHS & CO."
+		},
+		{
+			"name": "w9"
+		},
+		{
+			"name": "SPECIALTY"
+		},
+		{
+			"name": "w10"
+		},
+		{
+			"name": "WILMINGTON TRUST"
+		},
+		{
+			"name": "w10"
+		},
+		{
+			"name": "BANC OF AMERICA SECURITIES LLC"
+		},
+		{
+			"name": "w28"
+		},
+		{
+			"name": "WELLS FARGO"
+		},
+		{
+			"name": "w17"
+		},
+		{
+			"name": "MAIA MORTGAGE FINANCE STATUTORY TRUST"
+		},
+		{
+			"name": "w10"
+		},
+		{
+			"name": "OWNIT"
+		},
+		{
+			"name": "w10"
+		},
+		{
+			"name": "BAYVIEW LENDING GROUP, LLC"
+		},
+		{
+			"name": "w7"
+		},
+		{
+			"name": "INDYMAC"
+		},
+		{
+			"name": "w2"
+		},
+		{
+			"name": "BEAR STEARNS & CO. INC."
+		},
+		{
+			"name": "w7"
+		},
+		{
+			"name": "AEGIS"
+		},
+		{
+			"name": "w8"
+		},
+		{
+			"name": "MERRILL LYNCH"
+		},
+		{
+			"name": "w10"
+		},
+		{
+			"name": "GOLDMAN SACHS & CO."
+		},
+		{
+			"name": "w21"
+		},
+		{
+			"name": "MERRILL LYNCH"
+		},
+		{
+			"name": "w10"
+		},
+		{
+			"name": "NOMURA SECURITIES CO., LTD."
+		},
+		{
+			"name": "w13"
+		},
+		{
+			"name": "WILMINGTON TRUST"
+		},
+		{
+			"name": "w13"
+		},
+		{
+			"name": "CREDIT-BASED ASSET SERVICING AND SECURITIZATION"
+		},
+		{
+			"name": "w19"
+		},
+		{
+			"name": "MORGAN STANLEY"
+		},
+		{
+			"name": "w9"
+		},
+		{
+			"name": "COUNTRYWIDE HOME LOANS"
+		},
+		{
+			"name": "w25"
+		},
+		{
+			"name": "SACO I, INC."
+		},
+		{
+			"name": "w24"
+		},
+		{
+			"name": "LEHMAN BROTHERS"
+		},
+		{
+			"name": "w3"
+		},
+		{
+			"name": "BANC OF AMERICA SECURITIES LLC"
+		},
+		{
+			"name": "w28"
+		},
+		{
+			"name": "MAIA MORTGAGE FINANCE STATUTORY TRUST"
+		},
+		{
+			"name": "w12"
+		},
+		{
+			"name": "STRUCTURED ASSET"
+		},
+		{
+			"name": "w20"
+		},
+		{
+			"name": "AEGIS"
+		},
+		{
+			"name": "w8"
+		},
+		{
+			"name": "BEAR STEARNS & CO. INC."
+		},
+		{
+			"name": "w7"
+		},
+		{
+			"name": "COUNTRYWIDE SECURITIES CORPORATION"
+		},
+		{
+			"name": "w18"
+		},
+		{
+			"name": "GMAC"
+		},
+		{
+			"name": "w6"
+		},
+		{
+			"name": "MORTGAGEIT"
+		},
+		{
+			"name": "w3"
+		},
+		{
+			"name": "COUNTRYWIDE SECURITIES CORPORATION"
+		},
+		{
+			"name": "w18"
+		},
+		{
+			"name": "BEAR STEARNS & CO. INC."
+		},
+		{
+			"name": "w24"
+		},
+		{
+			"name": "CREDIT-BASED ASSET SERVICING AND SECURITIZATION"
+		},
+		{
+			"name": "w2"
+		},
+		{
+			"name": "STRUCTURED ASSET"
+		},
+		{
+			"name": "w20"
+		},
+		{
+			"name": "CREDIT-BASED ASSET SERVICING AND SECURITIZATION"
+		},
+		{
+			"name": "w5"
+		},
+		{
+			"name": "STRUCTURED ASSET"
+		},
+		{
+			"name": "w20"
+		},
+		{
+			"name": "BEAR STEARNS & CO. INC."
+		},
+		{
+			"name": "w7"
+		},
+		{
+			"name": "HOMEEQ SERVICING"
+		},
+		{
+			"name": "w14"
+		},
+		{
+			"name": "IRWIN HOME EQUITY CORP."
+		},
+		{
+			"name": "w14"
+		},
+		{
+			"name": "BANC OF AMERICA SECURITIES LLC"
+		},
+		{
+			"name": "w28"
+		},
+		{
+			"name": "FBR GROUP, INC."
+		},
+		{
+			"name": "w29"
+		},
+		{
+			"name": "HOMEEQ SERVICING"
+		},
+		{
+			"name": "w5"
+		},
+		{
+			"name": "NOMURA SECURITIES CO., LTD."
+		},
+		{
+			"name": "w5"
+		},
+		{
+			"name": "CREDIT-BASED ASSET SERVICING AND SECURITIZATION"
+		},
+		{
+			"name": "w22"
+		},
+		{
+			"name": "FREMONT FINANCIAL CORPORATION"
+		},
+		{
+			"name": "w17"
+		},
+		{
+			"name": "WELLS FARGO"
+		},
+		{
+			"name": "w17"
+		},
+		{
+			"name": "MAIA MORTGAGE FINANCE STATUTORY TRUST"
+		},
+		{
+			"name": "w2"
+		},
+		{
+			"name": "CENTEX"
+		},
+		{
+			"name": "w30"
+		},
+		{
+			"name": "INDYMAC"
+		},
+		{
+			"name": "w2"
+		},
+		{
+			"name": "STRUCTURED ASSET"
+		},
+		{
+			"name": "w20"
+		},
+		{
+			"name": "INDYMAC"
+		},
+		{
+			"name": "w2"
+		},
+		{
+			"name": "AMERICAN HOME MORTGAGE"
+		},
+		{
+			"name": "w22"
+		},
+		{
+			"name": "STRUCTURED ASSET"
+		},
+		{
+			"name": "w5"
+		},
+		{
+			"name": "STRUCTURED ASSET"
+		},
+		{
+			"name": "w9"
+		},
+		{
+			"name": "FREMONT FINANCIAL CORPORATION"
+		},
+		{
+			"name": "w17"
+		},
+		{
+			"name": "WELLS FARGO"
+		},
+		{
+			"name": "w17"
+		},
+		{
+			"name": "COUNTRYWIDE HOME LOANS"
+		},
+		{
+			"name": "w25"
+		},
+		{
+			"name": "WILMINGTON TRUST"
+		},
+		{
+			"name": "w15"
+		},
+		{
+			"name": "WELLS FARGO"
+		},
+		{
+			"name": "w17"
+		},
+		{
+			"name": "STRUCTURED ASSET"
+		},
+		{
+			"name": "w20"
+		},
+		{
+			"name": "ACCREDITED HOME LENDERS"
+		},
+		{
+			"name": "w19"
+		},
+		{
+			"name": "STRUCTURED ASSET"
+		},
+		{
+			"name": "w23"
+		},
+		{
+			"name": "COUNTRYWIDE SECURITIES CORPORATION"
+		},
+		{
+			"name": "w18"
+		},
+		{
+			"name": "STRUCTURED ASSET"
+		},
+		{
+			"name": "w8"
+		},
+		{
+			"name": "NOMURA SECURITIES CO., LTD."
+		},
+		{
+			"name": "w13"
+		},
+		{
+			"name": "WILMINGTON TRUST"
+		},
+		{
+			"name": "w13"
+		},
+		{
+			"name": "BEAR STEARNS & CO. INC."
+		},
+		{
+			"name": "w24"
+		},
+		{
+			"name": "PEOPLES CHOICE HOME LOAN INC."
+		},
+		{
+			"name": "w29"
+		},
+		{
+			"name": "CREDIT-BASED ASSET SERVICING AND SECURITIZATION"
+		},
+		{
+			"name": "w19"
+		},
+		{
+			"name": "GMAC"
+		},
+		{
+			"name": "w6"
+		},
+		{
+			"name": "WELLS FARGO"
+		},
+		{
+			"name": "w17"
+		},
+		{
+			"name": "BAYVIEW LENDING GROUP, LLC"
+		},
+		{
+			"name": "w7"
+		},
+		{
+			"name": "ENCORE CREDIT CORPORATION"
+		},
+		{
+			"name": "w1"
+		},
+		{
+			"name": "STRUCTURED ASSET"
+		},
+		{
+			"name": "w1"
+		},
+		{
+			"name": "MERRILL LYNCH"
+		},
+		{
+			"name": "w10"
+		},
+		{
+			"name": "COUNTRYWIDE HOME LOANS"
+		},
+		{
+			"name": "w25"
+		},
+		{
+			"name": "BEAR STEARNS & CO. INC."
+		},
+		{
+			"name": "w7"
+		},
+		{
+			"name": "BANC OF AMERICA SECURITIES LLC"
+		},
+		{
+			"name": "w28"
+		},
+		{
+			"name": "NOMURA SECURITIES CO., LTD."
+		},
+		{
+			"name": "w13"
+		},
+		{
+			"name": "WILMINGTON TRUST"
+		},
+		{
+			"name": "w13"
+		},
+		{
+			"name": "QUICKEN LOANS"
+		},
+		{
+			"name": "w13"
+		},
+		{
+			"name": "WELLS FARGO"
+		},
+		{
+			"name": "w17"
+		},
+		{
+			"name": "MERRILL LYNCH"
+		},
+		{
+			"name": "w10"
+		},
+		{
+			"name": "GMAC"
+		},
+		{
+			"name": "w6"
+		},
+		{
+			"name": "BANC OF AMERICA SECURITIES LLC"
+		},
+		{
+			"name": "w28"
+		},
+		{
+			"name": "BANC OF AMERICA SECURITIES LLC"
+		},
+		{
+			"name": "w28"
+		},
+		{
+			"name": "COUNTRYWIDE HOME LOANS"
+		},
+		{
+			"name": "w25"
+		},
+		{
+			"name": "COUNTRYWIDE SECURITIES CORPORATION"
+		},
+		{
+			"name": "w18"
+		},
+		{
+			"name": "FIRST NLC FINANCIAL SERVICES LLC"
+		},
+		{
+			"name": "w2"
+		},
+		{
+			"name": "COUNTRYWIDE HOME LOANS"
+		},
+		{
+			"name": "w21"
+		},
+		{
+			"name": "AMERICAN HOME MORTGAGE"
+		},
+		{
+			"name": "w22"
+		},
+		{
+			"name": "FBR GROUP, INC."
+		},
+		{
+			"name": "w29"
+		},
+		{
+			"name": "BEAR STEARNS & CO. INC."
+		},
+		{
+			"name": "w7"
+		},
+		{
+			"name": "COUNTRYWIDE SECURITIES CORPORATION"
+		},
+		{
+			"name": "w18"
+		},
+		{
+			"name": "SACO I, INC."
+		},
+		{
+			"name": "w24"
+		},
+		{
+			"name": "PRINCIPAL RESIDENTIAL MORTGAGE, INC."
+		},
+		{
+			"name": "w13"
+		},
+		{
+			"name": "BANC OF AMERICA SECURITIES LLC"
+		},
+		{
+			"name": "w28"
+		},
+		{
+			"name": "WILMINGTON TRUST"
+		},
+		{
+			"name": "w15"
+		},
+		{
+			"name": "CREDIT-BASED ASSET SERVICING AND SECURITIZATION"
+		},
+		{
+			"name": "w2"
+		},
+		{
+			"name": "GOLDMAN SACHS & CO."
+		},
+		{
+			"name": "w21"
+		},
+		{
+			"name": "COUNTRYWIDE HOME LOANS"
+		},
+		{
+			"name": "w25"
+		},
+		{
+			"name": "SPECIALTY"
+		},
+		{
+			"name": "w10"
+		},
+		{
+			"name": "WILMINGTON TRUST"
+		},
+		{
+			"name": "w10"
+		},
+		{
+			"name": "CREDIT-BASED ASSET SERVICING AND SECURITIZATION"
+		},
+		{
+			"name": "w19"
+		},
+		{
+			"name": "WILMINGTON TRUST"
+		},
+		{
+			"name": "w19"
+		},
+		{
+			"name": "ACCREDITED HOME LENDERS"
+		},
+		{
+			"name": "w19"
+		},
+		{
+			"name": "MAIA MORTGAGE FINANCE STATUTORY TRUST"
+		},
+		{
+			"name": "w19"
+		},
+		{
+			"name": "COUNTRYWIDE HOME LOANS"
+		},
+		{
+			"name": "w25"
+		},
+		{
+			"name": "WELLS FARGO"
+		},
+		{
+			"name": "w17"
+		},
+		{
+			"name": "CREDIT-BASED ASSET SERVICING AND SECURITIZATION"
+		},
+		{
+			"name": "w2"
+		},
+		{
+			"name": "GOLDMAN SACHS & CO."
+		},
+		{
+			"name": "w9"
+		},
+		{
+			"name": "THROUGH CERTIFICATES, SERIES 2006-HE1"
+		},
+		{
+			"name": "w9"
+		},
+		{
+			"name": "LEHMAN BROTHERS"
+		},
+		{
+			"name": "w4"
+		},
+		{
+			"name": "STRUCTURED ASSET"
+		},
+		{
+			"name": "w20"
+		},
+		{
+			"name": "STRUCTURED ASSET"
+		},
+		{
+			"name": "w20"
+		},
+		{
+			"name": "STRUCTURED ASSET"
+		},
+		{
+			"name": "w21"
+		},
+		{
+			"name": "RENAISSANCE MORTGAGE ACCEPTANCE"
+		},
+		{
+			"name": "w23"
+		},
+		{
+			"name": "SACO I, INC."
+		},
+		{
+			"name": "w21"
+		},
+		{
+			"name": "COUNTRYWIDE HOME LOANS"
+		},
+		{
+			"name": "w25"
+		},
+		{
+			"name": "COUNTRYWIDE HOME LOANS"
+		},
+		{
+			"name": "w25"
+		},
+		{
+			"name": "HOMEBANC CORP."
+		},
+		{
+			"name": "w7"
+		},
+		{
+			"name": "ENCORE CREDIT CORPORATION"
+		},
+		{
+			"name": "w1"
+		},
+		{
+			"name": "CREDIT-BASED ASSET SERVICING AND SECURITIZATION"
+		},
+		{
+			"name": "w19"
+		},
+		{
+			"name": "CITIGROUP"
+		},
+		{
+			"name": "w8"
+		},
+		{
+			"name": "ENCORE CREDIT CORPORATION"
+		},
+		{
+			"name": "w1"
+		},
+		{
+			"name": "INDYMAC"
+		},
+		{
+			"name": "w2"
+		},
+		{
+			"name": "SAXON MORTGAGE SERVICES"
+		},
+		{
+			"name": "w2"
+		},
+		{
+			"name": "MORGAN STANLEY"
+		},
+		{
+			"name": "w9"
+		},
+		{
+			"name": "GREENPOINT"
+		},
+		{
+			"name": "w27"
+		},
+		{
+			"name": "COUNTRYWIDE HOME LOANS"
+		},
+		{
+			"name": "w25"
+		},
+		{
+			"name": "COUNTRYWIDE SECURITIES CORPORATION"
+		},
+		{
+			"name": "w18"
+		},
+		{
+			"name": "SECURITIZED ASSET BACKED RECEIVABLES LLC"
+		},
+		{
+			"name": "w15"
+		},
+		{
+			"name": "SECURITIZED ASSET BACKED RECEIVABLES LLC"
+		},
+		{
+			"name": "w15"
+		},
+		{
+			"name": "MORTGAGEIT"
+		},
+		{
+			"name": "w3"
+		},
+		{
+			"name": "FREMONT FINANCIAL CORPORATION"
+		},
+		{
+			"name": "w17"
+		},
+		{
+			"name": "WELLS FARGO"
+		},
+		{
+			"name": "w17"
+		},
+		{
+			"name": "GMAC"
+		},
+		{
+			"name": "w6"
+		},
+		{
+			"name": "PRINCIPAL RESIDENTIAL MORTGAGE, INC."
+		},
+		{
+			"name": "w18"
+		},
+		{
+			"name": "STRUCTURED ASSET"
+		},
+		{
+			"name": "w20"
+		},
+		{
+			"name": "INDYMAC"
+		},
+		{
+			"name": "w2"
+		},
+		{
+			"name": "PRINCIPAL RESIDENTIAL MORTGAGE, INC."
+		},
+		{
+			"name": "w13"
+		},
+		{
+			"name": "WELLS FARGO"
+		},
+		{
+			"name": "w17"
+		},
+		{
+			"name": "US TRUST"
+		},
+		{
+			"name": "w28"
+		},
+		{
+			"name": "MERRILL LYNCH"
+		},
+		{
+			"name": "w10"
+		},
+		{
+			"name": "BANC OF AMERICA SECURITIES LLC"
+		},
+		{
+			"name": "w28"
+		},
+		{
+			"name": "BEAR STEARNS & CO. INC."
+		},
+		{
+			"name": "w7"
+		},
+		{
+			"name": "STRUCTURED ASSET"
+		},
+		{
+			"name": "w23"
+		},
+		{
+			"name": "INDYMAC"
+		},
+		{
+			"name": "w2"
+		},
+		{
+			"name": "COUNTRYWIDE HOME LOANS"
+		},
+		{
+			"name": "w25"
+		},
+		{
+			"name": "CREDIT-BASED ASSET SERVICING AND SECURITIZATION"
+		},
+		{
+			"name": "w2"
+		},
+		{
+			"name": "NOMURA SECURITIES CO., LTD."
+		},
+		{
+			"name": "w29"
+		},
+		{
+			"name": "WILMINGTON TRUST"
+		},
+		{
+			"name": "w29"
+		},
+		{
+			"name": "BEAR STEARNS & CO. INC."
+		},
+		{
+			"name": "w24"
+		},
+		{
+			"name": "BANC OF AMERICA SECURITIES LLC"
+		},
+		{
+			"name": "w28"
+		},
+		{
+			"name": "MAIA MORTGAGE FINANCE STATUTORY TRUST"
+		},
+		{
+			"name": "w12"
+		},
+		{
+			"name": "MORTGAGEIT"
+		},
+		{
+			"name": "w3"
+		},
+		{
+			"name": "MAIA MORTGAGE FINANCE STATUTORY TRUST"
+		},
+		{
+			"name": "w10"
+		},
+		{
+			"name": "OWNIT"
+		},
+		{
+			"name": "w10"
+		},
+		{
+			"name": "BEAR STEARNS & CO. INC."
+		},
+		{
+			"name": "w24"
+		},
+		{
+			"name": "BEAR STEARNS & CO. INC."
+		},
+		{
+			"name": "w7"
+		},
+		{
+			"name": "GREENPOINT"
+		},
+		{
+			"name": "w27"
+		},
+		{
+			"name": "CREDIT-BASED ASSET SERVICING AND SECURITIZATION"
+		},
+		{
+			"name": "w5"
+		},
+		{
+			"name": "STRUCTURED ASSET"
+		},
+		{
+			"name": "w20"
+		},
+		{
+			"name": "BAYVIEW LENDING GROUP, LLC"
+		},
+		{
+			"name": "w7"
+		},
+		{
+			"name": "CARRINGTON"
+		},
+		{
+			"name": "w27"
+		},
+		{
+			"name": "STRUCTURED ASSET"
+		},
+		{
+			"name": "w23"
+		},
+		{
+			"name": "MAIA MORTGAGE FINANCE STATUTORY TRUST"
+		},
+		{
+			"name": "w5"
+		},
+		{
+			"name": "NEW CENTURY"
+		},
+		{
+			"name": "w27"
+		},
+		{
+			"name": "CREDIT-BASED ASSET SERVICING AND SECURITIZATION"
+		},
+		{
+			"name": "w19"
+		},
+		{
+			"name": "MERRILL LYNCH"
+		},
+		{
+			"name": "w10"
+		},
+		{
+			"name": "FIRST FRANKLIN FINANCIAL CORP."
+		},
+		{
+			"name": "w26"
+		},
+		{
+			"name": "INDYMAC"
+		},
+		{
+			"name": "w2"
+		},
+		{
+			"name": "COUNTRYWIDE HOME LOANS"
+		},
+		{
+			"name": "w25"
+		},
+		{
+			"name": "SACO I, INC."
+		},
+		{
+			"name": "w4"
+		},
+		{
+			"name": "BANC OF AMERICA SECURITIES LLC"
+		},
+		{
+			"name": "w28"
+		},
+		{
+			"name": "WELLS FARGO"
+		},
+		{
+			"name": "w17"
+		},
+		{
+			"name": "BANC OF AMERICA SECURITIES LLC"
+		},
+		{
+			"name": "w28"
+		},
+		{
+			"name": "STRUCTURED ASSET"
+		},
+		{
+			"name": "w23"
+		},
+		{
+			"name": "STRUCTURED ASSET"
+		},
+		{
+			"name": "w20"
+		},
+		{
+			"name": "STRUCTURED ASSET"
+		},
+		{
+			"name": "w20"
+		},
+		{
+			"name": "COUNTRYWIDE HOME LOANS"
+		},
+		{
+			"name": "w25"
+		},
+		{
+			"name": "BEAR STEARNS & CO. INC."
+		},
+		{
+			"name": "w24"
+		},
+		{
+			"name": "LEHMAN BROTHERS"
+		},
+		{
+			"name": "w4"
+		},
+		{
+			"name": "STRUCTURED ASSET"
+		},
+		{
+			"name": "w5"
+		},
+		{
+			"name": "MAIA MORTGAGE FINANCE STATUTORY TRUST"
+		},
+		{
+			"name": "w2"
+		},
+		{
+			"name": "STRUCTURED ASSET"
+		},
+		{
+			"name": "w5"
+		},
+		{
+			"name": "STRUCTURED ASSET"
+		},
+		{
+			"name": "w20"
+		},
+		{
+			"name": "THORNBURG MORTGAGE HOME LOAN"
+		},
+		{
+			"name": "w7"
+		},
+		{
+			"name": "INDYMAC"
+		},
+		{
+			"name": "w2"
+		},
+		{
+			"name": "COUNTRYWIDE SECURITIES CORPORATION"
+		},
+		{
+			"name": "w18"
+		},
+		{
+			"name": "BANC OF AMERICA SECURITIES LLC"
+		},
+		{
+			"name": "w28"
+		},
+		{
+			"name": "MAIA MORTGAGE FINANCE STATUTORY TRUST"
+		},
+		{
+			"name": "w12"
+		},
+		{
+			"name": "AEGIS"
+		},
+		{
+			"name": "w8"
+		},
+		{
+			"name": "MAIA MORTGAGE FINANCE STATUTORY TRUST"
+		},
+		{
+			"name": "w4"
+		},
+		{
+			"name": "WELLS FARGO"
+		},
+		{
+			"name": "w17"
+		},
+		{
+			"name": "WELLS FARGO"
+		},
+		{
+			"name": "w17"
+		},
+		{
+			"name": "BEAR STEARNS & CO. INC."
+		},
+		{
+			"name": "w24"
+		},
+		{
+			"name": "FIELDSTONE SERVICING CORP."
+		},
+		{
+			"name": "w23"
+		},
+		{
+			"name": "NEWCASTLE INVESTMENT CORP."
+		},
+		{
+			"name": "w23"
+		},
+		{
+			"name": "BEAR STEARNS & CO. INC."
+		},
+		{
+			"name": "w7"
+		},
+		{
+			"name": "STRUCTURED ASSET"
+		},
+		{
+			"name": "w20"
+		},
+		{
+			"name": "COUNTRYWIDE SECURITIES CORPORATION"
+		},
+		{
+			"name": "w18"
+		},
+		{
+			"name": "BEAR STEARNS & CO. INC."
+		},
+		{
+			"name": "w7"
+		},
+		{
+			"name": "WILMINGTON TRUST"
+		},
+		{
+			"name": "w15"
+		},
+		{
+			"name": "STRUCTURED ASSET"
+		},
+		{
+			"name": "w26"
+		},
+		{
+			"name": "STRUCTURED ASSET"
+		},
+		{
+			"name": "w20"
+		},
+		{
+			"name": "STRUCTURED ASSET"
+		},
+		{
+			"name": "w20"
+		},
+		{
+			"name": "WILMINGTON TRUST"
+		},
+		{
+			"name": "w15"
+		},
+		{
+			"name": "SECURITIZED ASSET BACKED RECEIVABLES LLC"
+		},
+		{
+			"name": "w5"
+		},
+		{
+			"name": "COUNTRYWIDE HOME LOANS"
+		},
+		{
+			"name": "w25"
+		},
+		{
+			"name": "CREDIT-BASED ASSET SERVICING AND SECURITIZATION"
+		},
+		{
+			"name": "w19"
+		},
+		{
+			"name": "WILMINGTON TRUST"
+		},
+		{
+			"name": "w15"
+		},
+		{
+			"name": "BEAR STEARNS & CO. INC."
+		},
+		{
+			"name": "w7"
+		},
+		{
+			"name": "BANC OF AMERICA SECURITIES LLC"
+		},
+		{
+			"name": "w28"
+		},
+		{
+			"name": "CREDIT-BASED ASSET SERVICING AND SECURITIZATION"
+		},
+		{
+			"name": "w19"
+		},
+		{
+			"name": "WILMINGTON TRUST"
+		},
+		{
+			"name": "w19"
+		},
+		{
+			"name": "BANC OF AMERICA SECURITIES LLC"
+		},
+		{
+			"name": "w28"
+		},
+		{
+			"name": "BANC OF AMERICA SECURITIES LLC"
+		},
+		{
+			"name": "w28"
+		},
+		{
+			"name": "WILMINGTON TRUST"
+		},
+		{
+			"name": "w15"
+		},
+		{
+			"name": "MERRILL LYNCH"
+		},
+		{
+			"name": "w10"
+		},
+		{
+			"name": "GMAC"
+		},
+		{
+			"name": "w6"
+		},
+		{
+			"name": "MERRILL LYNCH"
+		},
+		{
+			"name": "w10"
+		},
+		{
+			"name": "COUNTRYWIDE HOME LOANS"
+		},
+		{
+			"name": "w25"
+		},
+		{
+			"name": "PRINCIPAL RESIDENTIAL MORTGAGE, INC."
+		},
+		{
+			"name": "w13"
+		},
+		{
+			"name": "BEAR STEARNS & CO. INC."
+		},
+		{
+			"name": "w7"
+		},
+		{
+			"name": "CASTLEOAK SECURITIES"
+		},
+		{
+			"name": "w17"
+		},
+		{
+			"name": "WELLS FARGO"
+		},
+		{
+			"name": "w17"
+		},
+		{
+			"name": "STRUCTURED ASSET"
+		},
+		{
+			"name": "w20"
+		},
+		{
+			"name": "COUNTRYWIDE SECURITIES CORPORATION"
+		},
+		{
+			"name": "w18"
+		},
+		{
+			"name": "SERIES OOMC 2005-HE6"
+		},
+		{
+			"name": "w18"
+		},
+		{
+			"name": "WELLS FARGO"
+		},
+		{
+			"name": "w17"
+		},
+		{
+			"name": "GOLDMAN SACHS & CO."
+		},
+		{
+			"name": "w9"
+		},
+		{
+			"name": "BANC OF AMERICA SECURITIES LLC"
+		},
+		{
+			"name": "w28"
+		},
+		{
+			"name": "ANY OTHER"
+		},
+		{
+			"name": "w21"
+		},
+		{
+			"name": "MAIA MORTGAGE FINANCE STATUTORY TRUST"
+		},
+		{
+			"name": "w21"
+		},
+		{
+			"name": "BEAR STEARNS & CO. INC."
+		},
+		{
+			"name": "w7"
+		},
+		{
+			"name": "TERWIN"
+		},
+		{
+			"name": "w5"
+		},
+		{
+			"name": "WILMINGTON TRUST"
+		},
+		{
+			"name": "w15"
+		},
+		{
+			"name": "LEHMAN BROTHERS"
+		},
+		{
+			"name": "w3"
+		},
+		{
+			"name": "COUNTRYWIDE SECURITIES CORPORATION"
+		},
+		{
+			"name": "w18"
+		},
+		{
+			"name": "RENAISSANCE MORTGAGE ACCEPTANCE"
+		},
+		{
+			"name": "w23"
+		},
+		{
+			"name": "BANC OF AMERICA SECURITIES LLC"
+		},
+		{
+			"name": "w28"
+		},
+		{
+			"name": "FIRST FRANKLIN FINANCIAL CORP."
+		},
+		{
+			"name": "w16"
+		},
+		{
+			"name": "STRUCTURED ASSET"
+		},
+		{
+			"name": "w20"
+		},
+		{
+			"name": "COUNTRYWIDE HOME LOANS"
+		},
+		{
+			"name": "w25"
+		},
+		{
+			"name": "SECURITIZED ASSET BACKED RECEIVABLES LLC"
+		},
+		{
+			"name": "w15"
+		},
+		{
+			"name": "SPECIALTY"
+		},
+		{
+			"name": "w10"
+		},
+		{
+			"name": "WILMINGTON TRUST"
+		},
+		{
+			"name": "w10"
+		},
+		{
+			"name": "WILMINGTON TRUST"
+		},
+		{
+			"name": "w15"
+		},
+		{
+			"name": "GREENPOINT"
+		},
+		{
+			"name": "w21"
+		},
+		{
+			"name": "WILMINGTON TRUST"
+		},
+		{
+			"name": "w15"
+		},
+		{
+			"name": "NOMURA SECURITIES CO., LTD."
+		},
+		{
+			"name": "w13"
+		},
+		{
+			"name": "WILMINGTON TRUST"
+		},
+		{
+			"name": "w13"
+		},
+		{
+			"name": "STRUCTURED ASSET"
+		},
+		{
+			"name": "w20"
+		},
+		{
+			"name": "INDYMAC"
+		},
+		{
+			"name": "w2"
+		},
+		{
+			"name": "CASTLEOAK SECURITIES"
+		},
+		{
+			"name": "w17"
+		},
+		{
+			"name": "WELLS FARGO"
+		},
+		{
+			"name": "w17"
+		},
+		{
+			"name": "IMPAC"
+		},
+		{
+			"name": "w11"
+		},
+		{
+			"name": "STRUCTURED ASSET"
+		},
+		{
+			"name": "w20"
+		},
+		{
+			"name": "BEAR STEARNS & CO. INC."
+		},
+		{
+			"name": "w7"
+		},
+		{
+			"name": "CREDIT-BASED ASSET SERVICING AND SECURITIZATION"
+		},
+		{
+			"name": "w27"
+		},
+		{
+			"name": "CREDIT-BASED ASSET SERVICING AND SECURITIZATION"
+		},
+		{
+			"name": "w2"
+		},
+		{
+			"name": "WELLS FARGO"
+		},
+		{
+			"name": "w17"
+		},
+		{
+			"name": "PEOPLES CHOICE HOME LOAN INC."
+		},
+		{
+			"name": "w29"
+		},
+		{
+			"name": "MERRILL LYNCH"
+		},
+		{
+			"name": "w10"
+		},
+		{
+			"name": "COUNTRYWIDE HOME LOANS"
+		},
+		{
+			"name": "w25"
+		},
+		{
+			"name": "BANC OF AMERICA SECURITIES LLC"
+		},
+		{
+			"name": "w28"
+		},
+		{
+			"name": "WELLS FARGO"
+		},
+		{
+			"name": "w17"
+		},
+		{
+			"name": "CREDIT-BASED ASSET SERVICING AND SECURITIZATION"
+		},
+		{
+			"name": "w5"
+		},
+		{
+			"name": "MAIA MORTGAGE FINANCE STATUTORY TRUST"
+		},
+		{
+			"name": "w12"
+		},
+		{
+			"name": "CREDIT-BASED ASSET SERVICING AND SECURITIZATION"
+		},
+		{
+			"name": "w19"
+		},
+		{
+			"name": "MERRILL LYNCH"
+		},
+		{
+			"name": "w10"
+		},
+		{
+			"name": "SPECIALTY"
+		},
+		{
+			"name": "w10"
+		},
+		{
+			"name": "WILMINGTON TRUST"
+		},
+		{
+			"name": "w10"
+		},
+		{
+			"name": "WELLS FARGO"
+		},
+		{
+			"name": "w17"
+		},
+		{
+			"name": "LEHMAN BROTHERS"
+		},
+		{
+			"name": "w3"
+		},
+		{
+			"name": "MID-STATE"
+		},
+		{
+			"name": "w23"
+		},
+		{
+			"name": "INDYMAC"
+		},
+		{
+			"name": "w2"
+		},
+		{
+			"name": "WILMINGTON TRUST"
+		},
+		{
+			"name": "w15"
+		},
+		{
+			"name": "WILMINGTON TRUST"
+		},
+		{
+			"name": "w15"
+		},
+		{
+			"name": "COUNTRYWIDE HOME LOANS"
+		},
+		{
+			"name": "w25"
+		},
+		{
+			"name": "MERRILL LYNCH"
+		},
+		{
+			"name": "w10"
+		},
+		{
+			"name": "AMERICAN HOME MORTGAGE"
+		},
+		{
+			"name": "w22"
+		},
+		{
+			"name": "GMAC"
+		},
+		{
+			"name": "w6"
+		},
+		{
+			"name": "COUNTRYWIDE HOME LOANS"
+		},
+		{
+			"name": "w25"
+		},
+		{
+			"name": "PHH CORP"
+		},
+		{
+			"name": "w26"
+		},
+		{
+			"name": "US TRUST"
+		},
+		{
+			"name": "w26"
+		},
+		{
+			"name": "FIELDSTONE SERVICING CORP."
+		},
+		{
+			"name": "w23"
+		},
+		{
+			"name": "NEWCASTLE INVESTMENT CORP."
+		},
+		{
+			"name": "w23"
+		},
+		{
+			"name": "MERRILL LYNCH"
+		},
+		{
+			"name": "w10"
+		},
+		{
+			"name": "AMERICAN HOME MORTGAGE"
+		},
+		{
+			"name": "w22"
+		},
+		{
+			"name": "BANC OF AMERICA SECURITIES LLC"
+		},
+		{
+			"name": "w28"
+		},
+		{
+			"name": "CREDIT-BASED ASSET SERVICING AND SECURITIZATION"
+		},
+		{
+			"name": "w19"
+		},
+		{
+			"name": "BEAR STEARNS & CO. INC."
+		},
+		{
+			"name": "w7"
+		},
+		{
+			"name": "WELLS FARGO"
+		},
+		{
+			"name": "w17"
+		},
+		{
+			"name": "BEAR STEARNS & CO. INC."
+		},
+		{
+			"name": "w7"
+		},
+		{
+			"name": "CREDIT-BASED ASSET SERVICING AND SECURITIZATION"
+		},
+		{
+			"name": "w19"
+		},
+		{
+			"name": "FIRST FRANKLIN FINANCIAL CORP."
+		},
+		{
+			"name": "w16"
+		},
+		{
+			"name": "STRUCTURED ASSET"
+		},
+		{
+			"name": "w23"
+		},
+		{
+			"name": "WILMINGTON TRUST"
+		},
+		{
+			"name": "w15"
+		},
+		{
+			"name": "CREDIT-BASED ASSET SERVICING AND SECURITIZATION"
+		},
+		{
+			"name": "w22"
+		},
+		{
+			"name": "CREDIT-BASED ASSET SERVICING AND SECURITIZATION"
+		},
+		{
+			"name": "w19"
+		},
+		{
+			"name": "UBS"
+		},
+		{
+			"name": "w19"
+		},
+		{
+			"name": "MAIA MORTGAGE FINANCE STATUTORY TRUST"
+		},
+		{
+			"name": "w12"
+		},
+		{
+			"name": "CREDIT-BASED ASSET SERVICING AND SECURITIZATION"
+		},
+		{
+			"name": "w19"
+		},
+		{
+			"name": "CITIGROUP"
+		},
+		{
+			"name": "w17"
+		},
+		{
+			"name": "BANC OF AMERICA SECURITIES LLC"
+		},
+		{
+			"name": "w28"
+		},
+		{
+			"name": "PEOPLES CHOICE HOME LOAN INC."
+		},
+		{
+			"name": "w29"
+		},
+		{
+			"name": "WELLS FARGO"
+		},
+		{
+			"name": "w17"
+		},
+		{
+			"name": "STRUCTURED ASSET"
+		},
+		{
+			"name": "w20"
+		},
+		{
+			"name": "PRINCIPAL RESIDENTIAL MORTGAGE, INC."
+		},
+		{
+			"name": "w13"
+		},
+		{
+			"name": "COUNTRYWIDE HOME LOANS"
+		},
+		{
+			"name": "w25"
+		},
+		{
+			"name": "STRUCTURED ASSET"
+		},
+		{
+			"name": "w20"
+		},
+		{
+			"name": "LEHMAN BROTHERS"
+		},
+		{
+			"name": "w4"
+		},
+		{
+			"name": "STRUCTURED ASSET"
+		},
+		{
+			"name": "w20"
+		},
+		{
+			"name": "WILMINGTON TRUST"
+		},
+		{
+			"name": "w15"
+		},
+		{
+			"name": "PRINCIPAL RESIDENTIAL MORTGAGE, INC."
+		},
+		{
+			"name": "w18"
+		},
+		{
+			"name": "PRINCIPAL RESIDENTIAL MORTGAGE, INC."
+		},
+		{
+			"name": "w13"
+		},
+		{
+			"name": "COUNTRYWIDE HOME LOANS"
+		},
+		{
+			"name": "w25"
+		},
+		{
+			"name": "HOMEBANC CORP."
+		},
+		{
+			"name": "w7"
+		},
+		{
+			"name": "COUNTRYWIDE HOME LOANS"
+		},
+		{
+			"name": "w25"
+		},
+		{
+			"name": "COUNTRYWIDE HOME LOANS"
+		},
+		{
+			"name": "w25"
+		},
+		{
+			"name": "WILMINGTON TRUST"
+		},
+		{
+			"name": "w15"
+		},
+		{
+			"name": "LEHMAN BROTHERS"
+		},
+		{
+			"name": "w3"
+		},
+		{
+			"name": "GOLDMAN SACHS & CO."
+		},
+		{
+			"name": "w9"
+		},
+		{
+			"name": "BEAR STEARNS & CO. INC."
+		},
+		{
+			"name": "w7"
+		},
+		{
+			"name": "WILMINGTON TRUST"
+		},
+		{
+			"name": "w15"
+		},
+		{
+			"name": "SACO I, INC."
+		},
+		{
+			"name": "w24"
+		},
+		{
+			"name": "BEAR STEARNS & CO. INC."
+		},
+		{
+			"name": "w7"
+		},
+		{
+			"name": "HOMEEQ SERVICING"
+		},
+		{
+			"name": "w14"
+		},
+		{
+			"name": "IRWIN HOME EQUITY CORP."
+		},
+		{
+			"name": "w14"
+		},
+		{
+			"name": "STRUCTURED ASSET"
+		},
+		{
+			"name": "w20"
+		},
+		{
+			"name": "STRUCTURED ASSET"
+		},
+		{
+			"name": "w20"
+		},
+		{
+			"name": "WELLS FARGO"
+		},
+		{
+			"name": "w17"
+		},
+		{
+			"name": "CREDIT-BASED ASSET SERVICING AND SECURITIZATION"
+		},
+		{
+			"name": "w19"
+		},
+		{
+			"name": "BEAR STEARNS & CO. INC."
+		},
+		{
+			"name": "w24"
+		},
+		{
+			"name": "FBR GROUP, INC."
+		},
+		{
+			"name": "w29"
+		},
+		{
+			"name": "MERRILL LYNCH"
+		},
+		{
+			"name": "w10"
+		},
+		{
+			"name": "MAIA MORTGAGE FINANCE STATUTORY TRUST"
+		},
+		{
+			"name": "w21"
+		},
+		{
+			"name": "SUNTRUST"
+		},
+		{
+			"name": "w30"
+		},
+		{
+			"name": "MAIA MORTGAGE FINANCE STATUTORY TRUST"
+		},
+		{
+			"name": "w12"
+		},
+		{
+			"name": "STRUCTURED ASSET"
+		},
+		{
+			"name": "w3"
+		},
+		{
+			"name": "MORGAN STANLEY"
+		},
+		{
+			"name": "w9"
+		},
+		{
+			"name": "MERRILL LYNCH"
+		},
+		{
+			"name": "w10"
+		},
+		{
+			"name": "STRUCTURED ASSET"
+		},
+		{
+			"name": "w20"
+		},
+		{
+			"name": "WELLS FARGO"
+		},
+		{
+			"name": "w17"
+		},
+		{
+			"name": "LEHMAN BROTHERS"
+		},
+		{
+			"name": "w3"
+		},
+		{
+			"name": "STRUCTURED ASSET"
+		},
+		{
+			"name": "w23"
+		},
+		{
+			"name": "STRUCTURED ASSET"
+		},
+		{
+			"name": "w3"
+		},
+		{
+			"name": "BEAR STEARNS & CO. INC."
+		},
+		{
+			"name": "w7"
+		}
+	],
+	"links": [
+		{
+			"source": 0,
+			"target": 1,
+			"value": 729.0
+		},
+		{
+			"source": 2,
+			"target": 3,
+			"value": 474.0224304199219
+		},
+		{
+			"source": 4,
+			"target": 5,
+			"value": 474.0224304199219
+		},
+		{
+			"source": 6,
+			"target": 7,
+			"value": 2444.759033203125
+		},
+		{
+			"source": 8,
+			"target": 9,
+			"value": 536.2431030273438
+		},
+		{
+			"source": 10,
+			"target": 11,
+			"value": 527.8790283203125
+		},
+		{
+			"source": 12,
+			"target": 13,
+			"value": 816.3273315429688
+		},
+		{
+			"source": 14,
+			"target": 15,
+			"value": 678.7630004882812
+		},
+		{
+			"source": 16,
+			"target": 17,
+			"value": 954.4019775390625
+		},
+		{
+			"source": 18,
+			"target": 19,
+			"value": 607.4801025390625
+		},
+		{
+			"source": 20,
+			"target": 21,
+			"value": 801.8679809570312
+		},
+		{
+			"source": 22,
+			"target": 23,
+			"value": 939.7780151367188
+		},
+		{
+			"source": 24,
+			"target": 25,
+			"value": 223.2363739013672
+		},
+		{
+			"source": 26,
+			"target": 27,
+			"value": 2189.76611328125
+		},
+		{
+			"source": 28,
+			"target": 29,
+			"value": 1130.2900390625
+		},
+		{
+			"source": 30,
+			"target": 31,
+			"value": 229.12600708007812
+		},
+		{
+			"source": 32,
+			"target": 33,
+			"value": 591.649169921875
+		},
+		{
+			"source": 34,
+			"target": 35,
+			"value": 702.9041137695312
+		},
+		{
+			"source": 36,
+			"target": 37,
+			"value": 249.47927856445312
+		},
+		{
+			"source": 38,
+			"target": 39,
+			"value": 733.4530029296875
+		},
+		{
+			"source": 40,
+			"target": 41,
+			"value": 1210.860107421875
+		},
+		{
+			"source": 42,
+			"target": 43,
+			"value": 1210.860107421875
+		},
+		{
+			"source": 44,
+			"target": 45,
+			"value": 324.05633544921875
+		},
+		{
+			"source": 46,
+			"target": 47,
+			"value": 1488.6881103515625
+		},
+		{
+			"source": 48,
+			"target": 49,
+			"value": 825.299072265625
+		},
+		{
+			"source": 50,
+			"target": 51,
+			"value": 825.299072265625
+		},
+		{
+			"source": 52,
+			"target": 53,
+			"value": 299.9939880371094
+		},
+		{
+			"source": 54,
+			"target": 55,
+			"value": 415.1997375488281
+		},
+		{
+			"source": 56,
+			"target": 57,
+			"value": 2449.18896484375
+		},
+		{
+			"source": 58,
+			"target": 59,
+			"value": 1165.199951171875
+		},
+		{
+			"source": 60,
+			"target": 61,
+			"value": 235.5321044921875
+		},
+		{
+			"source": 62,
+			"target": 63,
+			"value": 999.6232299804688
+		},
+		{
+			"source": 64,
+			"target": 65,
+			"value": 410.03009033203125
+		},
+		{
+			"source": 66,
+			"target": 67,
+			"value": 370.1597900390625
+		},
+		{
+			"source": 68,
+			"target": 69,
+			"value": 370.1597900390625
+		},
+		{
+			"source": 70,
+			"target": 71,
+			"value": 399.9660949707031
+		},
+		{
+			"source": 72,
+			"target": 73,
+			"value": 1487.403076171875
+		},
+		{
+			"source": 74,
+			"target": 75,
+			"value": 1015.0
+		},
+		{
+			"source": 76,
+			"target": 77,
+			"value": 433.7239990234375
+		},
+		{
+			"source": 78,
+			"target": 79,
+			"value": 873.3159790039062
+		},
+		{
+			"source": 80,
+			"target": 81,
+			"value": 513.7775268554688
+		},
+		{
+			"source": 82,
+			"target": 83,
+			"value": 201.93467712402344
+		},
+		{
+			"source": 84,
+			"target": 85,
+			"value": 489.55511474609375
+		},
+		{
+			"source": 86,
+			"target": 87,
+			"value": 976.0
+		},
+		{
+			"source": 88,
+			"target": 89,
+			"value": 563.208984375
+		},
+		{
+			"source": 90,
+			"target": 91,
+			"value": 265.61199951171875
+		},
+		{
+			"source": 92,
+			"target": 93,
+			"value": 292.1217041015625
+		},
+		{
+			"source": 94,
+			"target": 95,
+			"value": 888.8350219726562
+		},
+		{
+			"source": 96,
+			"target": 97,
+			"value": 380.0
+		},
+		{
+			"source": 98,
+			"target": 99,
+			"value": 1468.0579833984375
+		},
+		{
+			"source": 100,
+			"target": 101,
+			"value": 273.7680358886719
+		},
+		{
+			"source": 102,
+			"target": 103,
+			"value": 1141.81005859375
+		},
+		{
+			"source": 104,
+			"target": 105,
+			"value": 571.9940185546875
+		},
+		{
+			"source": 106,
+			"target": 107,
+			"value": 1835.3360595703125
+		},
+		{
+			"source": 108,
+			"target": 109,
+			"value": 421.7491455078125
+		},
+		{
+			"source": 110,
+			"target": 111,
+			"value": 343.6820068359375
+		},
+		{
+			"source": 112,
+			"target": 113,
+			"value": 343.6820068359375
+		},
+		{
+			"source": 114,
+			"target": 115,
+			"value": 438.10821533203125
+		},
+		{
+			"source": 116,
+			"target": 117,
+			"value": 2268.010009765625
+		},
+		{
+			"source": 118,
+			"target": 119,
+			"value": 1112.737060546875
+		},
+		{
+			"source": 120,
+			"target": 121,
+			"value": 1112.737060546875
+		},
+		{
+			"source": 122,
+			"target": 123,
+			"value": 886.7949829101562
+		},
+		{
+			"source": 124,
+			"target": 125,
+			"value": 964.3159790039062
+		},
+		{
+			"source": 126,
+			"target": 127,
+			"value": 964.3159790039062
+		},
+		{
+			"source": 128,
+			"target": 129,
+			"value": 980.0
+		},
+		{
+			"source": 130,
+			"target": 131,
+			"value": 1000.0
+		},
+		{
+			"source": 132,
+			"target": 133,
+			"value": 1250.9439697265625
+		},
+		{
+			"source": 134,
+			"target": 135,
+			"value": 1021.9869995117188
+		},
+		{
+			"source": 136,
+			"target": 137,
+			"value": 283.4950866699219
+		},
+		{
+			"source": 138,
+			"target": 139,
+			"value": 722.2340087890625
+		},
+		{
+			"source": 140,
+			"target": 141,
+			"value": 522.1480102539062
+		},
+		{
+			"source": 142,
+			"target": 143,
+			"value": 540.6279907226562
+		},
+		{
+			"source": 144,
+			"target": 145,
+			"value": 1008.3790283203125
+		},
+		{
+			"source": 146,
+			"target": 147,
+			"value": 1008.3790283203125
+		},
+		{
+			"source": 148,
+			"target": 149,
+			"value": 313.6301574707031
+		},
+		{
+			"source": 150,
+			"target": 151,
+			"value": 170.13909912109375
+		},
+		{
+			"source": 152,
+			"target": 153,
+			"value": 298.9646301269531
+		},
+		{
+			"source": 154,
+			"target": 155,
+			"value": 1474.41796875
+		},
+		{
+			"source": 156,
+			"target": 157,
+			"value": 1007.8079833984375
+		},
+		{
+			"source": 158,
+			"target": 159,
+			"value": 804.6315307617188
+		},
+		{
+			"source": 160,
+			"target": 161,
+			"value": 755.2659912109375
+		},
+		{
+			"source": 162,
+			"target": 163,
+			"value": 912.7000122070312
+		},
+		{
+			"source": 164,
+			"target": 165,
+			"value": 515.7061157226562
+		},
+		{
+			"source": 166,
+			"target": 167,
+			"value": 515.7061157226562
+		},
+		{
+			"source": 168,
+			"target": 169,
+			"value": 315.3689880371094
+		},
+		{
+			"source": 170,
+			"target": 171,
+			"value": 1074.699951171875
+		},
+		{
+			"source": 172,
+			"target": 173,
+			"value": 529.094970703125
+		},
+		{
+			"source": 174,
+			"target": 175,
+			"value": 522.8731689453125
+		},
+		{
+			"source": 176,
+			"target": 177,
+			"value": 991.507080078125
+		},
+		{
+			"source": 178,
+			"target": 179,
+			"value": 402.7829895019531
+		},
+		{
+			"source": 180,
+			"target": 181,
+			"value": 966.0
+		},
+		{
+			"source": 182,
+			"target": 183,
+			"value": 315.5140075683594
+		},
+		{
+			"source": 184,
+			"target": 185,
+			"value": 444.7401123046875
+		},
+		{
+			"source": 186,
+			"target": 187,
+			"value": 2138.899169921875
+		},
+		{
+			"source": 188,
+			"target": 189,
+			"value": 2007.782958984375
+		},
+		{
+			"source": 190,
+			"target": 191,
+			"value": 263.91546630859375
+		},
+		{
+			"source": 192,
+			"target": 193,
+			"value": 541.051025390625
+		},
+		{
+			"source": 194,
+			"target": 195,
+			"value": 541.051025390625
+		},
+		{
+			"source": 196,
+			"target": 197,
+			"value": 356.1202697753906
+		},
+		{
+			"source": 198,
+			"target": 199,
+			"value": 274.7164001464844
+		},
+		{
+			"source": 200,
+			"target": 201,
+			"value": 1791.6611328125
+		},
+		{
+			"source": 202,
+			"target": 203,
+			"value": 518.4801025390625
+		},
+		{
+			"source": 204,
+			"target": 205,
+			"value": 352.1571044921875
+		},
+		{
+			"source": 206,
+			"target": 207,
+			"value": 807.5131225585938
+		},
+		{
+			"source": 208,
+			"target": 209,
+			"value": 2826.900146484375
+		},
+		{
+			"source": 210,
+			"target": 211,
+			"value": 1165.800048828125
+		},
+		{
+			"source": 212,
+			"target": 213,
+			"value": 847.4190063476562
+		},
+		{
+			"source": 214,
+			"target": 215,
+			"value": 2000.0
+		},
+		{
+			"source": 216,
+			"target": 217,
+			"value": 552.1151123046875
+		},
+		{
+			"source": 218,
+			"target": 219,
+			"value": 949.9860229492188
+		},
+		{
+			"source": 220,
+			"target": 221,
+			"value": 829.9921264648438
+		},
+		{
+			"source": 222,
+			"target": 223,
+			"value": 434.239013671875
+		},
+		{
+			"source": 224,
+			"target": 225,
+			"value": 470.0270080566406
+		},
+		{
+			"source": 226,
+			"target": 227,
+			"value": 724.5130004882812
+		},
+		{
+			"source": 228,
+			"target": 229,
+			"value": 236.4507598876953
+		},
+		{
+			"source": 230,
+			"target": 231,
+			"value": 520.7390747070312
+		},
+		{
+			"source": 232,
+			"target": 233,
+			"value": 272.1278381347656
+		},
+		{
+			"source": 234,
+			"target": 235,
+			"value": 1378.473388671875
+		},
+		{
+			"source": 236,
+			"target": 237,
+			"value": 2209.5
+		},
+		{
+			"source": 238,
+			"target": 239,
+			"value": 831.60009765625
+		},
+		{
+			"source": 240,
+			"target": 241,
+			"value": 831.60009765625
+		},
+		{
+			"source": 242,
+			"target": 243,
+			"value": 259.96539306640625
+		},
+		{
+			"source": 244,
+			"target": 245,
+			"value": 259.96539306640625
+		},
+		{
+			"source": 246,
+			"target": 247,
+			"value": 1186.1500244140625
+		},
+		{
+			"source": 248,
+			"target": 249,
+			"value": 1186.1500244140625
+		},
+		{
+			"source": 250,
+			"target": 251,
+			"value": 1200.0001220703125
+		},
+		{
+			"source": 252,
+			"target": 253,
+			"value": 1300.635009765625
+		},
+		{
+			"source": 254,
+			"target": 255,
+			"value": 252.12408447265625
+		},
+		{
+			"source": 256,
+			"target": 257,
+			"value": 898.6192016601562
+		},
+		{
+			"source": 258,
+			"target": 259,
+			"value": 898.6192016601562
+		},
+		{
+			"source": 260,
+			"target": 261,
+			"value": 2740.5859375
+		},
+		{
+			"source": 262,
+			"target": 263,
+			"value": 319.60009765625
+		},
+		{
+			"source": 264,
+			"target": 265,
+			"value": 719.5410766601562
+		},
+		{
+			"source": 266,
+			"target": 267,
+			"value": 1766.9481201171875
+		},
+		{
+			"source": 268,
+			"target": 269,
+			"value": 797.7750244140625
+		},
+		{
+			"source": 270,
+			"target": 271,
+			"value": 337.3280029296875
+		},
+		{
+			"source": 272,
+			"target": 273,
+			"value": 1000.0001220703125
+		},
+		{
+			"source": 274,
+			"target": 275,
+			"value": 2000.0
+		},
+		{
+			"source": 276,
+			"target": 277,
+			"value": 962.1859130859375
+		},
+		{
+			"source": 278,
+			"target": 279,
+			"value": 1000.0
+		},
+		{
+			"source": 280,
+			"target": 281,
+			"value": 273.15106201171875
+		},
+		{
+			"source": 282,
+			"target": 283,
+			"value": 733.5189819335938
+		},
+		{
+			"source": 284,
+			"target": 285,
+			"value": 1600.0
+		},
+		{
+			"source": 286,
+			"target": 287,
+			"value": 334.98309326171875
+		},
+		{
+			"source": 288,
+			"target": 289,
+			"value": 980.0
+		},
+		{
+			"source": 290,
+			"target": 291,
+			"value": 628.3300170898438
+		},
+		{
+			"source": 292,
+			"target": 293,
+			"value": 1386.0841064453125
+		},
+		{
+			"source": 294,
+			"target": 295,
+			"value": 2032.800048828125
+		},
+		{
+			"source": 296,
+			"target": 297,
+			"value": 463.6700134277344
+		},
+		{
+			"source": 298,
+			"target": 299,
+			"value": 220.73599243164062
+		},
+		{
+			"source": 300,
+			"target": 301,
+			"value": 658.8499755859375
+		},
+		{
+			"source": 302,
+			"target": 303,
+			"value": 665.39501953125
+		},
+		{
+			"source": 304,
+			"target": 305,
+			"value": 1001.2269897460938
+		},
+		{
+			"source": 306,
+			"target": 307,
+			"value": 1001.2269897460938
+		},
+		{
+			"source": 308,
+			"target": 309,
+			"value": 260.77410888671875
+		},
+		{
+			"source": 310,
+			"target": 311,
+			"value": 693.3179931640625
+		},
+		{
+			"source": 312,
+			"target": 313,
+			"value": 654.89501953125
+		},
+		{
+			"source": 314,
+			"target": 315,
+			"value": 988.68798828125
+		},
+		{
+			"source": 316,
+			"target": 317,
+			"value": 510.0369873046875
+		},
+		{
+			"source": 318,
+			"target": 319,
+			"value": 1685.111083984375
+		},
+		{
+			"source": 320,
+			"target": 321,
+			"value": 806.0072021484375
+		},
+		{
+			"source": 322,
+			"target": 323,
+			"value": 978.5120849609375
+		},
+		{
+			"source": 324,
+			"target": 325,
+			"value": 807.9630737304688
+		},
+		{
+			"source": 326,
+			"target": 327,
+			"value": 369.5973815917969
+		},
+		{
+			"source": 328,
+			"target": 329,
+			"value": 590.119140625
+		},
+		{
+			"source": 330,
+			"target": 331,
+			"value": 603.1030883789062
+		},
+		{
+			"source": 332,
+			"target": 333,
+			"value": 695.0010986328125
+		},
+		{
+			"source": 334,
+			"target": 335,
+			"value": 520.5587768554688
+		},
+		{
+			"source": 336,
+			"target": 337,
+			"value": 482.19000244140625
+		},
+		{
+			"source": 338,
+			"target": 339,
+			"value": 482.19000244140625
+		},
+		{
+			"source": 340,
+			"target": 341,
+			"value": 670.635986328125
+		},
+		{
+			"source": 342,
+			"target": 343,
+			"value": 298.8475646972656
+		},
+		{
+			"source": 344,
+			"target": 345,
+			"value": 957.34326171875
+		},
+		{
+			"source": 346,
+			"target": 347,
+			"value": 1000.7449951171875
+		},
+		{
+			"source": 348,
+			"target": 349,
+			"value": 666.8110961914062
+		},
+		{
+			"source": 350,
+			"target": 351,
+			"value": 666.8110961914062
+		},
+		{
+			"source": 352,
+			"target": 353,
+			"value": 622.89599609375
+		},
+		{
+			"source": 354,
+			"target": 355,
+			"value": 1823.2215576171875
+		},
+		{
+			"source": 356,
+			"target": 357,
+			"value": 2700.9091796875
+		},
+		{
+			"source": 358,
+			"target": 359,
+			"value": 1591.1739501953125
+		},
+		{
+			"source": 360,
+			"target": 361,
+			"value": 2217.597900390625
+		},
+		{
+			"source": 362,
+			"target": 363,
+			"value": 239.8930206298828
+		},
+		{
+			"source": 364,
+			"target": 365,
+			"value": 682.3049926757812
+		},
+		{
+			"source": 366,
+			"target": 367,
+			"value": 889.2411499023438
+		},
+		{
+			"source": 368,
+			"target": 369,
+			"value": 147.8090057373047
+		},
+		{
+			"source": 370,
+			"target": 371,
+			"value": 2888.2099609375
+		},
+		{
+			"source": 372,
+			"target": 373,
+			"value": 670.4810791015625
+		},
+		{
+			"source": 374,
+			"target": 375,
+			"value": 948.9080810546875
+		},
+		{
+			"source": 376,
+			"target": 377,
+			"value": 534.0501098632812
+		},
+		{
+			"source": 378,
+			"target": 379,
+			"value": 266.5120849609375
+		},
+		{
+			"source": 380,
+			"target": 381,
+			"value": 206.1280059814453
+		},
+		{
+			"source": 382,
+			"target": 383,
+			"value": 383.12200927734375
+		},
+		{
+			"source": 384,
+			"target": 385,
+			"value": 199.27499389648438
+		},
+		{
+			"source": 386,
+			"target": 387,
+			"value": 995.3671264648438
+		},
+		{
+			"source": 388,
+			"target": 389,
+			"value": 787.653076171875
+		},
+		{
+			"source": 390,
+			"target": 391,
+			"value": 945.7711181640625
+		},
+		{
+			"source": 392,
+			"target": 393,
+			"value": 1705.8170166015625
+		},
+		{
+			"source": 394,
+			"target": 395,
+			"value": 2153.052978515625
+		},
+		{
+			"source": 396,
+			"target": 397,
+			"value": 363.1745910644531
+		},
+		{
+			"source": 398,
+			"target": 399,
+			"value": 802.458984375
+		},
+		{
+			"source": 400,
+			"target": 401,
+			"value": 1628.73095703125
+		},
+		{
+			"source": 402,
+			"target": 403,
+			"value": 227.3179931640625
+		},
+		{
+			"source": 404,
+			"target": 405,
+			"value": 680.7000122070312
+		},
+		{
+			"source": 406,
+			"target": 407,
+			"value": 2764.403076171875
+		},
+		{
+			"source": 408,
+			"target": 409,
+			"value": 1153.666015625
+		},
+		{
+			"source": 410,
+			"target": 411,
+			"value": 1443.494140625
+		},
+		{
+			"source": 412,
+			"target": 413,
+			"value": 245.125
+		},
+		{
+			"source": 414,
+			"target": 415,
+			"value": 689.4210205078125
+		},
+		{
+			"source": 416,
+			"target": 417,
+			"value": 715.080078125
+		},
+		{
+			"source": 418,
+			"target": 419,
+			"value": 1017.7620849609375
+		},
+		{
+			"source": 420,
+			"target": 421,
+			"value": 830.0250244140625
+		},
+		{
+			"source": 422,
+			"target": 423,
+			"value": 2418.75
+		},
+		{
+			"source": 424,
+			"target": 425,
+			"value": 1957.6041259765625
+		},
+		{
+			"source": 426,
+			"target": 427,
+			"value": 688.7921142578125
+		},
+		{
+			"source": 428,
+			"target": 429,
+			"value": 525.2899780273438
+		},
+		{
+			"source": 430,
+			"target": 431,
+			"value": 958.447021484375
+		},
+		{
+			"source": 432,
+			"target": 433,
+			"value": 958.447021484375
+		},
+		{
+			"source": 434,
+			"target": 435,
+			"value": 802.5089721679688
+		},
+		{
+			"source": 436,
+			"target": 437,
+			"value": 460.1990051269531
+		},
+		{
+			"source": 438,
+			"target": 439,
+			"value": 925.2050170898438
+		},
+		{
+			"source": 440,
+			"target": 441,
+			"value": 635.6451416015625
+		},
+		{
+			"source": 442,
+			"target": 443,
+			"value": 539.9935302734375
+		},
+		{
+			"source": 444,
+			"target": 445,
+			"value": 183.2729949951172
+		},
+		{
+			"source": 446,
+			"target": 447,
+			"value": 846.6530151367188
+		},
+		{
+			"source": 448,
+			"target": 449,
+			"value": 1042.85498046875
+		},
+		{
+			"source": 450,
+			"target": 451,
+			"value": 363.9517517089844
+		},
+		{
+			"source": 452,
+			"target": 453,
+			"value": 356.322998046875
+		},
+		{
+			"source": 454,
+			"target": 455,
+			"value": 2000.0
+		},
+		{
+			"source": 456,
+			"target": 457,
+			"value": 336.6336364746094
+		},
+		{
+			"source": 458,
+			"target": 459,
+			"value": 420.24749755859375
+		},
+		{
+			"source": 460,
+			"target": 461,
+			"value": 1685.131103515625
+		},
+		{
+			"source": 462,
+			"target": 463,
+			"value": 371.2685241699219
+		},
+		{
+			"source": 464,
+			"target": 465,
+			"value": 679.9215698242188
+		},
+		{
+			"source": 466,
+			"target": 467,
+			"value": 679.9215698242188
+		},
+		{
+			"source": 468,
+			"target": 469,
+			"value": 303.85113525390625
+		},
+		{
+			"source": 470,
+			"target": 471,
+			"value": 449.3529052734375
+		},
+		{
+			"source": 472,
+			"target": 473,
+			"value": 273.952392578125
+		},
+		{
+			"source": 474,
+			"target": 475,
+			"value": 235.5670928955078
+		},
+		{
+			"source": 476,
+			"target": 477,
+			"value": 231.46632385253906
+		},
+		{
+			"source": 478,
+			"target": 479,
+			"value": 312.78009033203125
+		},
+		{
+			"source": 480,
+			"target": 481,
+			"value": 1592.0001220703125
+		},
+		{
+			"source": 482,
+			"target": 483,
+			"value": 679.3309936523438
+		},
+		{
+			"source": 484,
+			"target": 485,
+			"value": 1211.674072265625
+		},
+		{
+			"source": 486,
+			"target": 487,
+			"value": 1228.3719482421875
+		},
+		{
+			"source": 488,
+			"target": 489,
+			"value": 1228.3719482421875
+		},
+		{
+			"source": 490,
+			"target": 491,
+			"value": 885.2538452148438
+		},
+		{
+			"source": 492,
+			"target": 493,
+			"value": 1442.2850341796875
+		},
+		{
+			"source": 494,
+			"target": 495,
+			"value": 1442.2850341796875
+		},
+		{
+			"source": 496,
+			"target": 497,
+			"value": 591.649169921875
+		},
+		{
+			"source": 498,
+			"target": 499,
+			"value": 1336.8822021484375
+		},
+		{
+			"source": 500,
+			"target": 501,
+			"value": 591.7411499023438
+		},
+		{
+			"source": 502,
+			"target": 503,
+			"value": 896.5870971679688
+		},
+		{
+			"source": 504,
+			"target": 505,
+			"value": 896.5870971679688
+		},
+		{
+			"source": 506,
+			"target": 507,
+			"value": 390.3554992675781
+		},
+		{
+			"source": 508,
+			"target": 509,
+			"value": 261.40008544921875
+		},
+		{
+			"source": 510,
+			"target": 511,
+			"value": 729.6299438476562
+		},
+		{
+			"source": 512,
+			"target": 513,
+			"value": 936.6820068359375
+		},
+		{
+			"source": 514,
+			"target": 515,
+			"value": 1109.051025390625
+		},
+		{
+			"source": 516,
+			"target": 517,
+			"value": 728.625
+		},
+		{
+			"source": 518,
+			"target": 519,
+			"value": 584.340087890625
+		},
+		{
+			"source": 520,
+			"target": 521,
+			"value": 1874.757080078125
+		},
+		{
+			"source": 522,
+			"target": 523,
+			"value": 2290.87109375
+		},
+		{
+			"source": 524,
+			"target": 525,
+			"value": 1950.7000732421875
+		},
+		{
+			"source": 526,
+			"target": 527,
+			"value": 141.7220001220703
+		},
+		{
+			"source": 528,
+			"target": 529,
+			"value": 325.5541076660156
+		},
+		{
+			"source": 530,
+			"target": 531,
+			"value": 325.5541076660156
+		},
+		{
+			"source": 532,
+			"target": 533,
+			"value": 259.1451110839844
+		},
+		{
+			"source": 534,
+			"target": 535,
+			"value": 1213.4759521484375
+		},
+		{
+			"source": 536,
+			"target": 537,
+			"value": 354.95989990234375
+		},
+		{
+			"source": 538,
+			"target": 539,
+			"value": 350.3550109863281
+		},
+		{
+			"source": 540,
+			"target": 541,
+			"value": 350.3550109863281
+		},
+		{
+			"source": 542,
+			"target": 543,
+			"value": 525.1240234375
+		},
+		{
+			"source": 544,
+			"target": 545,
+			"value": 412.5421142578125
+		},
+		{
+			"source": 546,
+			"target": 547,
+			"value": 1669.59814453125
+		},
+		{
+			"source": 548,
+			"target": 549,
+			"value": 1669.59814453125
+		},
+		{
+			"source": 550,
+			"target": 551,
+			"value": 803.89599609375
+		},
+		{
+			"source": 552,
+			"target": 553,
+			"value": 1896.4730224609375
+		},
+		{
+			"source": 554,
+			"target": 555,
+			"value": 3930.212890625
+		},
+		{
+			"source": 556,
+			"target": 557,
+			"value": 886.530029296875
+		},
+		{
+			"source": 558,
+			"target": 559,
+			"value": 247.21737670898438
+		},
+		{
+			"source": 560,
+			"target": 561,
+			"value": 895.8782958984375
+		},
+		{
+			"source": 562,
+			"target": 563,
+			"value": 1091.20703125
+		},
+		{
+			"source": 564,
+			"target": 565,
+			"value": 104.57610321044922
+		},
+		{
+			"source": 566,
+			"target": 567,
+			"value": 2000.0
+		},
+		{
+			"source": 568,
+			"target": 569,
+			"value": 503.099609375
+		},
+		{
+			"source": 570,
+			"target": 571,
+			"value": 1457.1451416015625
+		},
+		{
+			"source": 572,
+			"target": 573,
+			"value": 500.6059875488281
+		},
+		{
+			"source": 574,
+			"target": 575,
+			"value": 239.68304443359375
+		},
+		{
+			"source": 576,
+			"target": 577,
+			"value": 1350.8631591796875
+		},
+		{
+			"source": 578,
+			"target": 579,
+			"value": 752.3331298828125
+		},
+		{
+			"source": 580,
+			"target": 581,
+			"value": 265.8150939941406
+		},
+		{
+			"source": 582,
+			"target": 583,
+			"value": 265.8150939941406
+		},
+		{
+			"source": 584,
+			"target": 585,
+			"value": 342.0592041015625
+		},
+		{
+			"source": 586,
+			"target": 587,
+			"value": 1273.240966796875
+		},
+		{
+			"source": 588,
+			"target": 589,
+			"value": 267.5329895019531
+		},
+		{
+			"source": 590,
+			"target": 591,
+			"value": 589.2720947265625
+		},
+		{
+			"source": 592,
+			"target": 593,
+			"value": 394.6000061035156
+		},
+		{
+			"source": 594,
+			"target": 595,
+			"value": 415.37945556640625
+		},
+		{
+			"source": 596,
+			"target": 597,
+			"value": 200.05970764160156
+		},
+		{
+			"source": 598,
+			"target": 599,
+			"value": 540.1381225585938
+		},
+		{
+			"source": 600,
+			"target": 601,
+			"value": 794.4721069335938
+		},
+		{
+			"source": 602,
+			"target": 603,
+			"value": 395.7701110839844
+		},
+		{
+			"source": 604,
+			"target": 605,
+			"value": 1281.150146484375
+		},
+		{
+			"source": 606,
+			"target": 607,
+			"value": 104.21455383300781
+		},
+		{
+			"source": 608,
+			"target": 609,
+			"value": 104.21455383300781
+		},
+		{
+			"source": 610,
+			"target": 611,
+			"value": 1156.009033203125
+		},
+		{
+			"source": 612,
+			"target": 613,
+			"value": 1156.009033203125
+		},
+		{
+			"source": 614,
+			"target": 615,
+			"value": 843.7271118164062
+		},
+		{
+			"source": 616,
+			"target": 617,
+			"value": 3939.304931640625
+		},
+		{
+			"source": 618,
+			"target": 619,
+			"value": 571.2000732421875
+		},
+		{
+			"source": 620,
+			"target": 621,
+			"value": 290.4740905761719
+		},
+		{
+			"source": 622,
+			"target": 623,
+			"value": 192.33200073242188
+		},
+		{
+			"source": 624,
+			"target": 625,
+			"value": 781.45947265625
+		},
+		{
+			"source": 626,
+			"target": 627,
+			"value": 1079.988037109375
+		},
+		{
+			"source": 628,
+			"target": 629,
+			"value": 755.4940185546875
+		},
+		{
+			"source": 630,
+			"target": 631,
+			"value": 753.9559936523438
+		},
+		{
+			"source": 632,
+			"target": 633,
+			"value": 870.8041381835938
+		},
+		{
+			"source": 634,
+			"target": 635,
+			"value": 292.2994689941406
+		},
+		{
+			"source": 636,
+			"target": 637,
+			"value": 527.8720092773438
+		},
+		{
+			"source": 638,
+			"target": 639,
+			"value": 315.516357421875
+		},
+		{
+			"source": 640,
+			"target": 641,
+			"value": 315.516357421875
+		},
+		{
+			"source": 642,
+			"target": 643,
+			"value": 431.9610900878906
+		},
+		{
+			"source": 644,
+			"target": 645,
+			"value": 427.01409912109375
+		},
+		{
+			"source": 646,
+			"target": 647,
+			"value": 1250.281982421875
+		},
+		{
+			"source": 648,
+			"target": 649,
+			"value": 478.62109375
+		},
+		{
+			"source": 650,
+			"target": 651,
+			"value": 1107.68994140625
+		},
+		{
+			"source": 652,
+			"target": 653,
+			"value": 497.3287353515625
+		},
+		{
+			"source": 654,
+			"target": 655,
+			"value": 1233.623046875
+		},
+		{
+			"source": 656,
+			"target": 657,
+			"value": 1178.4000244140625
+		},
+		{
+			"source": 658,
+			"target": 659,
+			"value": 2706.75
+		},
+		{
+			"source": 660,
+			"target": 661,
+			"value": 820.1589965820312
+		},
+		{
+			"source": 662,
+			"target": 663,
+			"value": 2391.15087890625
+		},
+		{
+			"source": 664,
+			"target": 665,
+			"value": 1695.59326171875
+		},
+		{
+			"source": 666,
+			"target": 667,
+			"value": 726.6587524414062
+		},
+		{
+			"source": 668,
+			"target": 669,
+			"value": 698.1749877929688
+		},
+		{
+			"source": 670,
+			"target": 671,
+			"value": 205.9639892578125
+		},
+		{
+			"source": 672,
+			"target": 673,
+			"value": 1000.0
+		},
+		{
+			"source": 674,
+			"target": 675,
+			"value": 1093.989013671875
+		},
+		{
+			"source": 676,
+			"target": 677,
+			"value": 514.555419921875
+		},
+		{
+			"source": 678,
+			"target": 679,
+			"value": 897.2850952148438
+		},
+		{
+			"source": 680,
+			"target": 681,
+			"value": 493.999755859375
+		},
+		{
+			"source": 682,
+			"target": 683,
+			"value": 594.375
+		},
+		{
+			"source": 684,
+			"target": 685,
+			"value": 676.3839721679688
+		},
+		{
+			"source": 686,
+			"target": 687,
+			"value": 736.7330932617188
+		},
+		{
+			"source": 688,
+			"target": 689,
+			"value": 365.5449523925781
+		},
+		{
+			"source": 690,
+			"target": 691,
+			"value": 449.47100830078125
+		},
+		{
+			"source": 692,
+			"target": 693,
+			"value": 1600.951171875
+		},
+		{
+			"source": 694,
+			"target": 695,
+			"value": 233.19497680664062
+		},
+		{
+			"source": 696,
+			"target": 697,
+			"value": 233.19497680664062
+		},
+		{
+			"source": 698,
+			"target": 699,
+			"value": 821.47412109375
+		},
+		{
+			"source": 700,
+			"target": 701,
+			"value": 1314.748046875
+		},
+		{
+			"source": 702,
+			"target": 703,
+			"value": 3502.343994140625
+		},
+		{
+			"source": 704,
+			"target": 705,
+			"value": 1175.5689697265625
+		},
+		{
+			"source": 706,
+			"target": 707,
+			"value": 759.2196044921875
+		},
+		{
+			"source": 708,
+			"target": 709,
+			"value": 988.177978515625
+		},
+		{
+			"source": 710,
+			"target": 711,
+			"value": 1062.2811279296875
+		},
+		{
+			"source": 712,
+			"target": 713,
+			"value": 902.9609985351562
+		},
+		{
+			"source": 714,
+			"target": 715,
+			"value": 676.47900390625
+		},
+		{
+			"source": 716,
+			"target": 717,
+			"value": 925.39208984375
+		},
+		{
+			"source": 718,
+			"target": 719,
+			"value": 759.7999877929688
+		},
+		{
+			"source": 720,
+			"target": 721,
+			"value": 268.57000732421875
+		},
+		{
+			"source": 722,
+			"target": 723,
+			"value": 996.7739868164062
+		},
+		{
+			"source": 724,
+			"target": 725,
+			"value": 1190.2950439453125
+		},
+		{
+			"source": 726,
+			"target": 727,
+			"value": 992.255126953125
+		},
+		{
+			"source": 728,
+			"target": 729,
+			"value": 1233.260009765625
+		},
+		{
+			"source": 730,
+			"target": 731,
+			"value": 571.0601196289062
+		},
+		{
+			"source": 732,
+			"target": 733,
+			"value": 294.94732666015625
+		},
+		{
+			"source": 734,
+			"target": 735,
+			"value": 335.2943115234375
+		}
+	]
+}

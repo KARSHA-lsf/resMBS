@@ -1,0 +1,649 @@
+{
+	"nodes": [
+		{
+			"name": "Topic 2 (*T*)"
+		},
+		{
+			"name": "Topic 3 (*T*)"
+		},
+		{
+			"name": "Topic 4"
+		},
+		{
+			"name": "Topic 6 (*T*)"
+		},
+		{
+			"name": "Topic 9"
+		},
+		{
+			"name": "Topic 11 (*T*)"
+		},
+		{
+			"name": "Topic 12"
+		},
+		{
+			"name": "Topic 13"
+		},
+		{
+			"name": "Topic 15"
+		},
+		{
+			"name": "Topic 17 (*T*)"
+		},
+		{
+			"name": "Topic 18 (*T*)"
+		},
+		{
+			"name": "Topic 19"
+		},
+		{
+			"name": "Topic 20"
+		},
+		{
+			"name": "Topic 24 (*T*)"
+		},
+		{
+			"name": "Topic 28 (*T*)"
+		},
+		{
+			"name": "Topic 30 (*T*)"
+		},
+		{
+			"name": "FI_104 FIELDSTONE SERVICING CORP.+Originator (*T*)"
+		},
+		{
+			"name": "FI_125 GMAC+Issuer (*T*)"
+		},
+		{
+			"name": "FI_125 GMAC+Seller (*T*)"
+		},
+		{
+			"name": "FI_125 GMAC+Servicer (*T*)"
+		},
+		{
+			"name": "FI_146 IMPAC+Issuer (*T*)"
+		},
+		{
+			"name": "FI_146 IMPAC+Seller (*T*)"
+		},
+		{
+			"name": "FI_146 IMPAC+Servicer (*T*)"
+		},
+		{
+			"name": "FI_147 INDYMAC+Depositor (*T*)"
+		},
+		{
+			"name": "FI_147 INDYMAC+Issuer (*T*)"
+		},
+		{
+			"name": "FI_147 INDYMAC+Originator (*T*)"
+		},
+		{
+			"name": "FI_147 INDYMAC+Seller (*T*)"
+		},
+		{
+			"name": "FI_147 INDYMAC+Servicer (*T*)"
+		},
+		{
+			"name": "FI_153 J.P. MORGAN CHASE+Trustee (*T*)"
+		},
+		{
+			"name": "FI_157 LEHMAN BROTHERS+Depositor (*T*)"
+		},
+		{
+			"name": "FI_157 LEHMAN BROTHERS+Issuer (*T*)"
+		},
+		{
+			"name": "FI_157 LEHMAN BROTHERS+Originator (*T*)"
+		},
+		{
+			"name": "FI_157 LEHMAN BROTHERS+Seller (*T*)"
+		},
+		{
+			"name": "FI_157 LEHMAN BROTHERS+Sponsor (*T*)"
+		},
+		{
+			"name": "FI_165 MAIA MORTGAGE FINANCE STATUTORY TRUST+Issuer"
+		},
+		{
+			"name": "FI_171 MERRILL LYNCH+Originator (*T*)"
+		},
+		{
+			"name": "FI_177 MORGAN STANLEY+Issuer"
+		},
+		{
+			"name": "FI_179 MORTGAGEIT+Issuer (*T*)"
+		},
+		{
+			"name": "FI_179 MORTGAGEIT+Originator (*T*)"
+		},
+		{
+			"name": "FI_181 NATIONAL CITY+Servicer (*T*)"
+		},
+		{
+			"name": "FI_193 NOMURA SECURITIES CO., LTD.+Issuer"
+		},
+		{
+			"name": "FI_207 OLYMPUS SERVICING, L.P.+Originator"
+		},
+		{
+			"name": "FI_22 AMERIQUEST MORTGAGE CO.+Depositor (*T*)"
+		},
+		{
+			"name": "FI_22 AMERIQUEST MORTGAGE CO.+Originator (*T*)"
+		},
+		{
+			"name": "FI_22 AMERIQUEST MORTGAGE CO.+Seller (*T*)"
+		},
+		{
+			"name": "FI_22 AMERIQUEST MORTGAGE CO.+Servicer (*T*)"
+		},
+		{
+			"name": "FI_226 PRINCIPAL RESIDENTIAL MORTGAGE, INC.+Issuer"
+		},
+		{
+			"name": "FI_262 STRUCTURED ASSET+Issuer"
+		},
+		{
+			"name": "FI_294 UBS+Seller (*T*)"
+		},
+		{
+			"name": "FI_303 WACHOVIA+Trustee (*T*)"
+		},
+		{
+			"name": "FI_304 WASHINGTON MUTUAL+Originator (*T*)"
+		},
+		{
+			"name": "FI_304 WASHINGTON MUTUAL+Servicer (*T*)"
+		},
+		{
+			"name": "FI_306 WELLS FARGO+Custodian (*T*)"
+		},
+		{
+			"name": "FI_306 WELLS FARGO+Issuer (*T*)"
+		},
+		{
+			"name": "FI_306 WELLS FARGO+Securities administrator (*T*)"
+		},
+		{
+			"name": "FI_306 WELLS FARGO+Seller (*T*)"
+		},
+		{
+			"name": "FI_306 WELLS FARGO+Servicer (*T*)"
+		},
+		{
+			"name": "FI_306 WELLS FARGO+Trustee (*T*)"
+		},
+		{
+			"name": "FI_307 WEYERHAEUSER MORTGAGE COMPANY+Originator"
+		},
+		{
+			"name": "FI_308 WILMINGTON TRUST+Issuer"
+		},
+		{
+			"name": "FI_31 AURORA LOAN SERVICES LLC+Servicer"
+		},
+		{
+			"name": "FI_33 BANC OF AMERICA SECURITIES LLC+Depositor (*T*)"
+		},
+		{
+			"name": "FI_33 BANC OF AMERICA SECURITIES LLC+Issuer (*T*)"
+		},
+		{
+			"name": "FI_34 BANK OF AMERICA+Issuer (*T*)"
+		},
+		{
+			"name": "FI_34 BANK OF AMERICA+Seller (*T*)"
+		},
+		{
+			"name": "FI_34 BANK OF AMERICA+Servicer (*T*)"
+		},
+		{
+			"name": "FI_41 BEAR STEARNS & CO. INC.+Depositor (*T*)"
+		},
+		{
+			"name": "FI_41 BEAR STEARNS & CO. INC.+Issuer (*T*)"
+		},
+		{
+			"name": "FI_6 ACCREDITED HOME LENDERS+Issuer (*T*)"
+		},
+		{
+			"name": "FI_71 COUNTRYWIDE HOME LOANS+Depositor (*T*)"
+		},
+		{
+			"name": "FI_71 COUNTRYWIDE HOME LOANS+Seller (*T*)"
+		},
+		{
+			"name": "FI_71 COUNTRYWIDE HOME LOANS+Servicer (*T*)"
+		},
+		{
+			"name": "FI_72 COUNTRYWIDE SECURITIES CORPORATION+Depositor (*T*)"
+		},
+		{
+			"name": "FI_72 COUNTRYWIDE SECURITIES CORPORATION+Issuer (*T*)"
+		},
+		{
+			"name": "FI_74 CREDIT-BASED ASSET SERVICING AND SECURITIZATION+Issuer"
+		},
+		{
+			"name": "FI_79 DELTA FUNDING CORPORATION+Servicer (*T*)"
+		},
+		{
+			"name": "FI_80 DEUTSCHE BANK+Trustee (*T*)"
+		},
+		{
+			"name": "FI_87 EMC MORTGAGE+Seller (*T*)"
+		},
+		{
+			"name": "FI_87 EMC MORTGAGE+Servicer (*T*)"
+		},
+		{
+			"name": "FI_88 ENCORE CREDIT CORPORATION+Originator (*T*)"
+		},
+		{
+			"name": "FI_90 EQUIFIRST CORP+Originator (*T*)"
+		}
+	],
+	"links": [
+		{
+			"source": 0,
+			"target": 27,
+			"value": 0.18
+		},
+		{
+			"source": 0,
+			"target": 26,
+			"value": 0.17
+		},
+		{
+			"source": 0,
+			"target": 23,
+			"value": 0.16
+		},
+		{
+			"source": 0,
+			"target": 24,
+			"value": 0.15
+		},
+		{
+			"source": 0,
+			"target": 76,
+			"value": 0.09
+		},
+		{
+			"source": 1,
+			"target": 31,
+			"value": 0.34
+		},
+		{
+			"source": 1,
+			"target": 30,
+			"value": 0.2
+		},
+		{
+			"source": 1,
+			"target": 37,
+			"value": 0.12
+		},
+		{
+			"source": 1,
+			"target": 38,
+			"value": 0.09
+		},
+		{
+			"source": 1,
+			"target": 32,
+			"value": 0.02
+		},
+		{
+			"source": 2,
+			"target": 25,
+			"value": 0.17
+		},
+		{
+			"source": 2,
+			"target": 44,
+			"value": 0.15
+		},
+		{
+			"source": 2,
+			"target": 41,
+			"value": 0.12
+		},
+		{
+			"source": 2,
+			"target": 45,
+			"value": 0.1
+		},
+		{
+			"source": 2,
+			"target": 58,
+			"value": 0.08
+		},
+		{
+			"source": 3,
+			"target": 17,
+			"value": 0.44
+		},
+		{
+			"source": 3,
+			"target": 19,
+			"value": 0.2
+		},
+		{
+			"source": 3,
+			"target": 18,
+			"value": 0.15
+		},
+		{
+			"source": 3,
+			"target": 35,
+			"value": 0.1
+		},
+		{
+			"source": 3,
+			"target": 28,
+			"value": 0.02
+		},
+		{
+			"source": 4,
+			"target": 76,
+			"value": 0.17
+		},
+		{
+			"source": 4,
+			"target": 56,
+			"value": 0.17
+		},
+		{
+			"source": 4,
+			"target": 54,
+			"value": 0.11
+		},
+		{
+			"source": 4,
+			"target": 16,
+			"value": 0.1
+		},
+		{
+			"source": 4,
+			"target": 36,
+			"value": 0.07
+		},
+		{
+			"source": 5,
+			"target": 20,
+			"value": 0.3
+		},
+		{
+			"source": 5,
+			"target": 22,
+			"value": 0.25
+		},
+		{
+			"source": 5,
+			"target": 21,
+			"value": 0.13
+		},
+		{
+			"source": 5,
+			"target": 71,
+			"value": 0.08
+		},
+		{
+			"source": 5,
+			"target": 76,
+			"value": 0.06
+		},
+		{
+			"source": 6,
+			"target": 56,
+			"value": 0.24
+		},
+		{
+			"source": 6,
+			"target": 51,
+			"value": 0.12
+		},
+		{
+			"source": 6,
+			"target": 34,
+			"value": 0.11
+		},
+		{
+			"source": 6,
+			"target": 39,
+			"value": 0.07
+		},
+		{
+			"source": 6,
+			"target": 54,
+			"value": 0.06
+		},
+		{
+			"source": 7,
+			"target": 75,
+			"value": 0.2
+		},
+		{
+			"source": 7,
+			"target": 28,
+			"value": 0.13
+		},
+		{
+			"source": 7,
+			"target": 46,
+			"value": 0.13
+		},
+		{
+			"source": 7,
+			"target": 19,
+			"value": 0.07
+		},
+		{
+			"source": 7,
+			"target": 40,
+			"value": 0.05
+		},
+		{
+			"source": 8,
+			"target": 71,
+			"value": 0.35
+		},
+		{
+			"source": 8,
+			"target": 70,
+			"value": 0.23
+		},
+		{
+			"source": 8,
+			"target": 72,
+			"value": 0.19
+		},
+		{
+			"source": 8,
+			"target": 69,
+			"value": 0.1
+		},
+		{
+			"source": 8,
+			"target": 59,
+			"value": 0.07
+		},
+		{
+			"source": 9,
+			"target": 53,
+			"value": 0.6
+		},
+		{
+			"source": 9,
+			"target": 55,
+			"value": 0.14
+		},
+		{
+			"source": 9,
+			"target": 56,
+			"value": 0.12
+		},
+		{
+			"source": 9,
+			"target": 49,
+			"value": 0.06
+		},
+		{
+			"source": 9,
+			"target": 52,
+			"value": 0.06
+		},
+		{
+			"source": 10,
+			"target": 73,
+			"value": 0.53
+		},
+		{
+			"source": 10,
+			"target": 50,
+			"value": 0.12
+		},
+		{
+			"source": 10,
+			"target": 72,
+			"value": 0.11
+		},
+		{
+			"source": 10,
+			"target": 80,
+			"value": 0.06
+		},
+		{
+			"source": 10,
+			"target": 75,
+			"value": 0.04
+		},
+		{
+			"source": 11,
+			"target": 74,
+			"value": 0.16
+		},
+		{
+			"source": 11,
+			"target": 56,
+			"value": 0.15
+		},
+		{
+			"source": 11,
+			"target": 57,
+			"value": 0.11
+		},
+		{
+			"source": 11,
+			"target": 48,
+			"value": 0.06
+		},
+		{
+			"source": 11,
+			"target": 68,
+			"value": 0.04
+		},
+		{
+			"source": 12,
+			"target": 33,
+			"value": 0.28
+		},
+		{
+			"source": 12,
+			"target": 32,
+			"value": 0.24
+		},
+		{
+			"source": 12,
+			"target": 47,
+			"value": 0.12
+		},
+		{
+			"source": 12,
+			"target": 29,
+			"value": 0.11
+		},
+		{
+			"source": 12,
+			"target": 60,
+			"value": 0.08
+		},
+		{
+			"source": 13,
+			"target": 67,
+			"value": 0.27
+		},
+		{
+			"source": 13,
+			"target": 79,
+			"value": 0.2
+		},
+		{
+			"source": 13,
+			"target": 66,
+			"value": 0.14
+		},
+		{
+			"source": 13,
+			"target": 78,
+			"value": 0.13
+		},
+		{
+			"source": 13,
+			"target": 77,
+			"value": 0.11
+		},
+		{
+			"source": 14,
+			"target": 62,
+			"value": 0.33
+		},
+		{
+			"source": 14,
+			"target": 65,
+			"value": 0.15
+		},
+		{
+			"source": 14,
+			"target": 64,
+			"value": 0.15
+		},
+		{
+			"source": 14,
+			"target": 61,
+			"value": 0.13
+		},
+		{
+			"source": 14,
+			"target": 63,
+			"value": 0.07
+		},
+		{
+			"source": 15,
+			"target": 43,
+			"value": 0.44
+		},
+		{
+			"source": 15,
+			"target": 42,
+			"value": 0.12
+		},
+		{
+			"source": 15,
+			"target": 45,
+			"value": 0.11
+		},
+		{
+			"source": 15,
+			"target": 44,
+			"value": 0.07
+		},
+		{
+			"source": 15,
+			"target": 76,
+			"value": 0.05
+		}
+	]
+}

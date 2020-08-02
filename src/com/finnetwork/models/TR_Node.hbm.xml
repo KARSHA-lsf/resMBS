@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated Oct 30, 2018 1:40:52 AM by Hibernate Tools 3.5.0.Final -->
+<hibernate-mapping>
+    <class name="com.finnetwork.models.TR_Node" table="TR_NODE">
+        <id name="id" type="double">
+            <column name="ID" />
+            <generator class="assigned" />
+        </id>
+        <property name="equity" type="java.lang.String">
+            <column name="EQUITY" />
+        </property>
+    </class>
+</hibernate-mapping>

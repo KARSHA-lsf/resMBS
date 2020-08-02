@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated Oct 30, 2018 1:40:52 AM by Hibernate Tools 3.5.0.Final -->
+<hibernate-mapping>
+    <class name="com.finnetwork.models.Sector51_comp" table="SECTOR51_COMP">
+        <id name="id" type="int">
+            <column name="ID" />
+            <generator class="assigned" />
+        </id>
+        <property name="CIK" type="int">
+            <column name="CIK" />
+        </property>
+        <property name="ticker_symbol" type="java.lang.String">
+            <column name="TICKER_SYMBOL" />
+        </property>
+        <property name="name" type="java.lang.String">
+            <column name="NAME" />
+        </property>
+        <property name="naics" type="int">
+            <column name="NAICS" />
+        </property>
+        <property name="GVKEY" type="int">
+            <column name="GVKEY" />
+        </property>
+        <property name="trdf_id" type="java.lang.String">
+            <column name="TRDF_ID" />
+        </property>
+    </class>
+</hibernate-mapping>

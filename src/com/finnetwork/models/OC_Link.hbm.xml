@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated Oct 30, 2018 1:40:52 AM by Hibernate Tools 3.5.0.Final -->
+<hibernate-mapping>
+    <class name="com.finnetwork.models.OC_Link" table="OC_LINK">
+        <id name="id" type="int">
+            <column name="ID" />
+            <generator class="assigned" />
+        </id>
+        <property name="OC_SUBJECT_ID" type="java.lang.String">
+            <column name="OC_SUBJECT_ID" />
+        </property>
+        <property name="OC_PREDICATE_TYPE" type="java.lang.String">
+            <column name="OC_PREDICATE_TYPE" />
+        </property>
+        <property name="OC_OBJECT_ID" type="java.lang.String">
+            <column name="OC_OBJECT_ID" />
+        </property>
+        <property name="OC_CONFIDENCE_SCORE" type="java.lang.String">
+            <column name="OC_CONFIDENCE_SCORE" />
+        </property>
+    </class>
+</hibernate-mapping>

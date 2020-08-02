@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC "-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+                                         "http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+ <session-factory>
+  <property name="hibernate.connection.driver_class">com.mysql.jdbc.Driver</property>
+  
+  <property name="hibernate.connection.url">jdbc:mysql://localhost:3306/fin_network</property>
+  <property name="hibernate.connection.username">root</property>
+  <property name="hibernate.connection.password">tharindu</property>  
+   
+  <property name="hibernate.dialect">org.hibernate.dialect.MySQLDialect</property>
+  <property name="hibernate.search.autoregister_listeners">false</property>
+  <property name="show_sql">true</property>
+  
+  <property name="hibernate.connection.release_mode">auto</property> 
+  <property name="hibernate.c3p0.min_size">5</property>
+  <property name="hibernate.c3p0.max_size">20</property>
+  <property name="hibernate.c3p0.timeout">300</property>
+  <property name="hibernate.c3p0.max_statements">50</property>
+  <property name="hibernate.c3p0.idle_test_period">3000</property>
+  
+  <mapping class="com.finnetwork.models.Node" resource="com/finnetwork/models/Node.hbm.xml"/>
+  <mapping class="com.finnetwork.models.Link" resource="com/finnetwork/models/Link.hbm.xml"/>
+  <mapping class="com.finnetwork.models.FeiiiY2Working" resource="com/finnetwork/models/FeiiiY2Working.hbm.xml"/>
+  
+  <mapping class="com.finnetwork.models.Sector51_comp" resource="com/finnetwork/models/Sector51_comp.hbm.xml"/>
+  <mapping class="com.finnetwork.models.SEC_Node" resource="com/finnetwork/models/SEC_Node.hbm.xml"/>
+  <mapping class="com.finnetwork.models.SEC_Link" resource="com/finnetwork/models/SEC_Link.hbm.xml"/>
+  <mapping class="com.finnetwork.models.TR_Node" resource="com/finnetwork/models/TR_Node.hbm.xml"/>
+  <mapping class="com.finnetwork.models.TR_Link" resource="com/finnetwork/models/TR_Link.hbm.xml"/>
+  <mapping class="com.finnetwork.models.TNIC2_Node" resource="com/finnetwork/models/TNIC2_Node.hbm.xml"/>
+  <mapping class="com.finnetwork.models.TNIC2_Link" resource="com/finnetwork/models/TNIC2_Link.hbm.xml"/>
+  <mapping class="com.finnetwork.models.OC_Link" resource="com/finnetwork/models/OC_Link.hbm.xml"/>
+  <mapping class="com.finnetwork.models.OC_Node" resource="com/finnetwork/models/OC_Node.hbm.xml"/>
+  <mapping class="com.finnetwork.models.SEC_Node" resource="com/finnetwork/models/OC_Node.hbm.xml"/>
+  <mapping class="com.finnetwork.models.TRDF_gt_Node" resource="com/finnetwork/models/TRDF_gt_Node.hbm.xml"/>
+  <mapping class="com.finnetwork.models.TRDF_gt_Link" resource="com/finnetwork/models/TRDF_gt_Link.hbm.xml"/>
+  <mapping class="com.finnetwork.models.TRDF_gt_Link211" resource="com/finnetwork/models/TRDF_gt_Link211.hbm.xml"/>
+  <mapping class="com.finnetwork.models.APP_Node" resource="com/finnetwork/models/APP_Node.hbm.xml"/>
+  <mapping class="com.finnetwork.models.APP_Link" resource="com/finnetwork/models/APP_Link.hbm.xml"/>
+  <mapping class="com.finnetwork.models.bubble_graph" resource="com/finnetwork/models/bubble_graph.hbm.xml"/>
+  <mapping class="com.finnetwork.models.prospectus" resource="com/finnetwork/models/prospectus.hbm.xml"/>
+  <mapping class="com.finnetwork.models.topic_mdl_issuers" resource="com/finnetwork/models/topic_mdl_issuers.hbm.xml"/>
+  <mapping class="com.finnetwork.models.Topic_mdl__sankey" resource="com/finnetwork/models/Topic_mdl__sankey.hbm.xml"/>
+  <mapping class="com.finnetwork.models.prospectusv3" resource="com/finnetwork/models/prospectusv3.hbm.xml"/>
+  
+ </session-factory>
+</hibernate-configuration>
